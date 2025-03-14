@@ -1,7 +1,7 @@
 -setup discord bot                          DONE
 -store discord bot token securely           DONE
 -setup github actions and manual start      DONE
--setup google service account
+-setup google service account               DONE
 -change bot to initially store list info
 -read from last message read
 -after each read, update stored values
