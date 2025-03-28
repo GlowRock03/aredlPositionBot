@@ -13,8 +13,8 @@ client = discord.Client(intents=intents)
 
 CHANNEL_ID = 1300214311372984442
 
-LAST_READ_FILE = "last_read.json"
-LEVEL_DATA_FILE = "level_data.json"
+LAST_READ_FILE = "data/last_read.json"
+LEVEL_DATA_FILE = "data/level_data.json"
 
 
 # Load Secret Keys

@@ -27,7 +27,7 @@ if response.status_code == 200:
         levels.append(level_entry)
 
     # Save to a JSON file
-    with open("level_data.json", "w", encoding="utf-8") as json_file:
+    with open("data/level_data.json", "w", encoding="utf-8") as json_file:
         json.dump(levels, json_file, indent=4, ensure_ascii=False)
 
     print("Data successfully saved to aredl_levels.json")

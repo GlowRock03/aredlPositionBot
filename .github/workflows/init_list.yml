@@ -16,17 +16,20 @@ jobs:
         with:
           python-version: "3.x"
 
+      - name: Install dependencies
+        run: pip install -r requirements/init_requirements.txt
+
       - name: Run InitializePositions.py
         run: python InitializePositions.py
 
       - name: Check for changes
-        run: git diff --exit-code level_data.json || echo "Changes detected"
+        run: git diff --exit-code data/level_data.json || echo "Changes detected"
 
       - name: Commit and push changes
         if: success()
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add level_data.json
-          git commit -m "Update level_data.json [Automated]"
+          git add data/level_data.json
+          git commit -m "Update data/level_data.json [Automated]"
           git push

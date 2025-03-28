@@ -1,4 +1,4 @@
-name: Deploy Discord Bot
+name: Run Discord Bot
 
 on:
   schedule:
@@ -20,11 +20,11 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install -r requirements.txt
+          pip install -r requirements/requirements.txt
 
       - name: Run the bot
         env:
           DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
           GOOGLE_CLOUD_KEY: ${{ secrets.GOOGLE_CLOUD_KEY }}
         run: |
-          python aredlPositionBot.py
+          python AredlPositionBot.py
