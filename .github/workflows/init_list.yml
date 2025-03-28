@@ -1,0 +1,32 @@
+name: Initialize Level Positions
+
+on:
+  workflow_dispatch:
+
+jobs:
+  update-level-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Run InitializePositions.py
+        run: python InitializePositions.py
+
+      - name: Check for changes
+        run: git diff --exit-code level_data.json || echo "Changes detected"
+
+      - name: Commit and push changes
+        if: success()
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add level_data.json
+          git commit -m "Update level_data.json [Automated]"
+          git push
