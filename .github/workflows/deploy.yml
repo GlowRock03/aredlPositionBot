@@ -38,7 +38,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add data/
-          git git commit -m "Update data/ [Automated]"
+          git commit -m "Update data/ [Automated]"
           git push https://x-access-token:${{ secrets.GH_PAT }}@github.com/GlowRock03/aredlPositionBot.git main
         env:
           GH_PAT: ${{ secrets.GH_PAT }}
