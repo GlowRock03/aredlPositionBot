@@ -18,7 +18,7 @@ queue = []
 
 LAST_READ_FILE = "data/last_read.json"
 LEVEL_DATA_FILE = "data/level_data.json"
-
+USER_DATA_FILE = "data/user_config.json"
 
 # Load Secret Keys
 if not os.getenv("GITHUB_ACTIONS"):
@@ -63,6 +63,19 @@ def load_level_data():
 def save_level_data(data):
     with open(LEVEL_DATA_FILE, "w") as f:
         json.dump(data, f, indent=4)
+
+# Load the existing user config or create a new one if it doesn't exist
+def load_user_configs():
+    if os.path.exists(USER_DATA_FILE):
+        with open(USER_DATA_FILE, "r") as f:
+            return json.load(f)
+    return {}
+
+# Save the user configs to the file
+def save_user_configs(user_configs):
+    with open(USER_DATA_FILE, "w") as f:
+        json.dump(user_configs, f, indent=4)
+
 
 def queue_changes(message):
 
@@ -187,22 +200,51 @@ async def on_ready():
     if not foundFlag:
         print("No new messages found!")
     else:
-        print("\n\nProcessing Queue")
+        print("\n\nProcessing Message Queue")
         process_queue()
 
 
     await asyncio.sleep(600)
     await client.close()
-    
-'''
-# On Message Sent (user config)
+
+
+# Command to process user configurations
 @client.event
 async def on_message(message):
-    
-    #or not message.channel.id == CHANNEL_ID:
     if message.author == client.user:
         return
-'''
+
+    if message.content.startswith("!config"):
+        try:
+            _, setting, value = message.content.split(" ", 2)
+            user_id = str(message.author.id)
+            user_configs = load_user_configs()
+
+            # Check if the user exists in the config file; if not, add them
+            if user_id not in user_configs:
+                user_configs[user_id] = {}
+
+            # Validate the settings and values, and update the config
+            if setting == "sheetName":
+                user_configs[user_id]["sheetName"] = value
+            elif setting == "sheetNumber":
+                user_configs[user_id]["sheetNumber"] = int(value)
+            elif setting == "levelNameColumn":
+                user_configs[user_id]["levelNameColumn"] = value
+            elif setting == "positionColumn":
+                user_configs[user_id]["positionColumn"] = value
+            else:
+                await message.channel.send(f"Invalid setting: {setting}")
+                return
+
+            # Save the updated configurations
+            save_user_configs(user_configs)
+            await message.channel.send(f"Configuration updated for user {message.author.name}.")
+
+        except ValueError:
+            await message.channel.send("Invalid command format. Please use: !config <SETTING> <VALUE>")
+        except Exception as e:
+            await message.channel.send(f"Error: {str(e)}")
     
 
 # Run Client
