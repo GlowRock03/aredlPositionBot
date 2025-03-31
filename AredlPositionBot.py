@@ -3,8 +3,11 @@ import json
 import discord
 import asyncio
 import re
+import gspread
 from google.oauth2 import service_account
+from google.oauth2.service_account import Credentials
 from dotenv import load_dotenv
+
 
 
 # Setup Client
@@ -35,7 +38,9 @@ else:
     if not GOOGLE_CLOUD_KEY:
         raise ValueError("Missing 'GOOGLE_CLOUD_KEY' environment variable")
     credentials_info = json.loads(GOOGLE_CLOUD_KEY)
-credentials = service_account.Credentials.from_service_account_info(credentials_info)
+scopes = ["https://www.googleapis.com/auth/spreadsheets", "https://www.googleapis.com/auth/drive"]
+credentials = Credentials.from_service_account_info(credentials_info, scopes=scopes)
+gc = gspread.authorize(credentials)
 
 
 # Load last read message ID
@@ -178,6 +183,55 @@ def process_queue():
 
     print("Level data updated successfully!")
 
+def update_google_sheets():
+    # Load user configs
+    with open(USER_DATA_FILE, "r") as f:
+        user_configs = json.load(f)
+
+    # Load level data
+    with open(LEVEL_DATA_FILE, "r") as f:
+        level_data = json.load(f)
+
+    # Convert level data into a dictionary for quick lookup
+    level_positions = {level["name"]: {"position": level["position"], "legacy": level.get("legacy", False)} for level in level_data}
+
+    # Iterate through each user's configuration
+    for user_id, config in user_configs.items():
+        try:
+            sheet_name = config["sheetName"]
+            page_name = config["sheetPage"]  # Now using the name of the sheet instead of an index
+            level_name_column = config["levelNameColumn"]
+            position_column = config["positionColumn"]
+
+            # Open the Google Sheet and get the specific sheet by name
+            sheet = gc.open(sheet_name).worksheet(page_name)
+
+            # Fetch all level names from the configured column
+            level_names = sheet.col_values(ord(level_name_column) - ord('A') + 1)  # Convert column letter to index
+
+            # Prepare batch update data
+            updates = []
+            for i, level_name in enumerate(level_names, start=1):  # Google Sheets row index starts at 1
+                if level_name in level_positions:
+                    position_data = level_positions[level_name]
+                    new_value = "Legacy" if position_data["legacy"] else position_data["position"]
+                    
+                    # Add to batch update list
+                    updates.append({
+                        "range": f"{position_column}{i}",
+                        "values": [[new_value]]
+                    })
+
+            # Execute batch update if there are changes
+            if updates:
+                sheet.batch_update(updates)
+                print(f"Updated {len(updates)} cells in batch for user {user_id}")
+            else:
+                print(f"No updates needed for user {user_id}")
+
+        except Exception as e:
+            print(f"Error updating sheet for user {user_id}: {str(e)}")
+
 # Client Events
 @client.event
 async def on_ready():
@@ -203,6 +257,11 @@ async def on_ready():
         print("\n\nProcessing Message Queue")
         process_queue()
 
+    print("\n\nUpdating Google Sheets...")
+    update_google_sheets()
+    print("Google Sheets update complete!")
+    
+
 
     await asyncio.sleep(600)
     await client.close()
@@ -227,8 +286,8 @@ async def on_message(message):
             # Validate the settings and values, and update the config
             if setting == "sheetName":
                 user_configs[user_id]["sheetName"] = value
-            elif setting == "sheetNumber":
-                user_configs[user_id]["sheetNumber"] = int(value)
+            elif setting == "sheetPage":
+                user_configs[user_id]["sheetPage"] = int(value)
             elif setting == "levelNameColumn":
                 user_configs[user_id]["levelNameColumn"] = value
             elif setting == "positionColumn":
