@@ -656,52 +656,52 @@
     },
     {
         "position": 132,
-        "name": "Silent Club",
-        "legacy": false
-    },
-    {
-        "position": 133,
         "name": "SAND SAILOR",
         "legacy": false
     },
     {
-        "position": 134,
+        "position": 133,
         "name": "Pandemonium (Cersia)",
         "legacy": false
     },
     {
-        "position": 135,
+        "position": 134,
         "name": "FARBIDI THEORY",
         "legacy": false
     },
     {
-        "position": 136,
+        "position": 135,
         "name": "Descent Into Exile",
         "legacy": false
     },
     {
-        "position": 137,
+        "position": 136,
         "name": "Neon Skyline",
         "legacy": false
     },
     {
-        "position": 138,
+        "position": 137,
         "name": "The Rupture",
         "legacy": false
     },
     {
-        "position": 139,
+        "position": 138,
         "name": "Scrubbabingo force",
         "legacy": false
     },
     {
-        "position": 140,
+        "position": 139,
         "name": "Jupiter My Favourite",
         "legacy": false
     },
     {
-        "position": 141,
+        "position": 140,
         "name": "The Art of the Blade",
+        "legacy": false
+    },
+    {
+        "position": 141,
+        "name": "Silent Club",
         "legacy": false
     },
     {
@@ -3360,8 +3360,8 @@
         "legacy": false
     },
     {
-        "name": "follow me CLOSELY",
         "position": 673,
+        "name": "follow me CLOSELY",
         "legacy": false
     },
     {
@@ -3675,8 +3675,8 @@
         "legacy": false
     },
     {
-        "name": "can i have mod now",
         "position": 736,
+        "name": "can i have mod now",
         "legacy": false
     },
     {
@@ -4090,8 +4090,8 @@
         "legacy": false
     },
     {
-        "name": "last ship was cool",
         "position": 819,
+        "name": "last ship was cool",
         "legacy": false
     },
     {
@@ -4240,8 +4240,8 @@
         "legacy": false
     },
     {
-        "name": "MasmeCrescent",
         "position": 849,
+        "name": "MasmeCrescent",
         "legacy": false
     },
     {
@@ -4335,8 +4335,8 @@
         "legacy": false
     },
     {
-        "name": "THE DRIP TRIP",
         "position": 868,
+        "name": "THE DRIP TRIP",
         "legacy": false
     },
     {
@@ -4360,8 +4360,8 @@
         "legacy": false
     },
     {
-        "name": "The Man With No Eyes",
         "position": 873,
+        "name": "The Man With No Eyes",
         "legacy": false
     },
     {
