@@ -16,7 +16,7 @@ if response.status_code == 200:
     for level in data:
         level_entry = {
             "position": level["position"],
-            "name": level["name"]
+            "name": level["name"].lower()
         }
         # Add "legacy" only if it exists in the API response
         if "legacy" in level:
