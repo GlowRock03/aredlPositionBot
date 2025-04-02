@@ -306,5 +306,14 @@ async def on_message(message):
             await message.channel.send(f"Error: {str(e)}")
     
 
+    if message.content.startswith("!requirements"):
+        await message.channel.send(f"1. Your spreadsheet must be a Google Sheet\n2. You must add the bot\'s email as an editor to your spreadsheet: aredl-position-bot-service@aredlpositionbot.iam.gserviceaccount.com\n3. You must have your spreadsheet setup in columns (for the headers) and each level should be on its own row below the headers\n4. You must have a Level Name column (the header can be named to something else) and a Level Position column (the header can be named to something else too)\n5. In the Level Name Column, each level\'s name HAS TO EXACTLY MATCH the name on the AREDL (adderall) website\n6. In discord you must run ALL 4 !config commands (see !setup for instructions)")
+    
+    if message.content.startswith("!setup"):
+        await message.channel.send(f"Ensure you have followed the requirements from !requirements before starting:\n1. Contact the developer (@glowrock) on discord to start the bot for you\n2. Once the bot is running, run each of the !config commands found in !help\n3. If you have followed the steps correctly, your Google Sheet will now update daily with all of the AREDL (adderall) updates")
+        
+    if message.content.startswith("!help"):
+        await message.channel.send(f"All commands:\n!config sheetName <The name of your google sheet>\n!config sheetPage <The name of the sheet you have your aredl positions on>\n!config levelNameColumn <The column of the level names>\n!config positionColumn <The column of the level positions>\n!requirements\n!setup\n!help")
+
 # Run Client
 client.run(DISCORD_TOKEN)

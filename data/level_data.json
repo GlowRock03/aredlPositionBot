@@ -26,27 +26,27 @@
     },
     {
         "position": 6,
-        "name": "Silent clubstep",
+        "name": "Acheron",
         "legacy": false
     },
     {
         "position": 7,
-        "name": "Spectre",
+        "name": "Silent clubstep",
         "legacy": false
     },
     {
         "position": 8,
-        "name": "Tunnel of Despair",
+        "name": "Spectre",
         "legacy": false
     },
     {
         "position": 9,
-        "name": "Abyss of Darkness",
+        "name": "Tunnel of Despair",
         "legacy": false
     },
     {
-        "position": 11,
-        "name": "Acheron",
+        "position": 10,
+        "name": "Abyss of Darkness",
         "legacy": false
     },
     {
@@ -321,77 +321,77 @@
     },
     {
         "position": 65,
-        "name": "Terminal Rampancy",
+        "name": "Shukketsu",
         "legacy": false
     },
     {
         "position": 66,
-        "name": "Critical Heat",
+        "name": "Terminal Rampancy",
         "legacy": false
     },
     {
         "position": 67,
-        "name": "Aerial Gleam",
+        "name": "Critical Heat",
         "legacy": false
     },
     {
         "position": 68,
+        "name": "Aerial Gleam",
+        "legacy": false
+    },
+    {
+        "position": 69,
         "name": "Trueffet",
         "legacy": false
     },
     {
         "position": 70,
+        "name": "The Paroxysm of Rage",
+        "legacy": false
+    },
+    {
+        "position": 71,
         "name": "Judgement Knights",
         "legacy": false
     },
     {
-        "position": 71,
-        "name": "Shukketsu",
-        "legacy": false
-    },
-    {
-        "position": 71,
+        "position": 72,
         "name": "Kenos",
         "legacy": false
     },
     {
-        "position": 72,
+        "position": 73,
         "name": "Zodiac",
         "legacy": false
     },
     {
-        "position": 73,
+        "position": 74,
         "name": "Esfera",
         "legacy": false
     },
     {
-        "position": 74,
+        "position": 75,
         "name": "Destruction 19",
         "legacy": false
     },
     {
-        "position": 75,
+        "position": 76,
         "name": "Checked Steam",
         "legacy": false
     },
     {
-        "position": 76,
+        "position": 77,
         "name": "Axinie",
         "legacy": false
     },
     {
-        "position": 77,
+        "position": 78,
         "name": "NEUTRA",
         "legacy": false
     },
     {
-        "position": 78,
+        "position": 79,
         "name": "DISSONANCE",
-        "legacy": false
-    },
-    {
-        "position": 80,
-        "name": "The Paroxysm of Rage",
         "legacy": false
     },
     {
@@ -416,82 +416,82 @@
     },
     {
         "position": 84,
-        "name": "Widestep",
+        "name": "Hard Machine",
         "legacy": false
     },
     {
         "position": 85,
-        "name": "Crackhead Circles",
+        "name": "Widestep",
         "legacy": false
     },
     {
         "position": 86,
-        "name": "Keres",
+        "name": "Crackhead Circles",
         "legacy": false
     },
     {
         "position": 87,
-        "name": "Lotus Flower",
+        "name": "Keres",
         "legacy": false
     },
     {
         "position": 88,
-        "name": "Frost Spirit",
+        "name": "Lotus Flower",
         "legacy": false
     },
     {
         "position": 89,
-        "name": "Dry Out Copyable 2",
+        "name": "Frost Spirit",
         "legacy": false
     },
     {
         "position": 90,
-        "name": "Promethean",
+        "name": "Dry Out Copyable 2",
         "legacy": false
     },
     {
         "position": 91,
-        "name": "Cold Sweat",
+        "name": "Promethean",
         "legacy": false
     },
     {
         "position": 92,
-        "name": "Thinking Space",
+        "name": "Cold Sweat",
         "legacy": false
     },
     {
         "position": 93,
-        "name": "qoUEO",
+        "name": "Thinking Space",
         "legacy": false
     },
     {
         "position": 94,
-        "name": "Renevant",
+        "name": "qoUEO",
         "legacy": false
     },
     {
         "position": 95,
-        "name": "SUPERHATEMEWORLD",
+        "name": "Renevant",
         "legacy": false
     },
     {
         "position": 96,
-        "name": "ConClusion",
+        "name": "SUPERHATEMEWORLD",
         "legacy": false
     },
     {
         "position": 97,
-        "name": "ta1LSD0ll",
+        "name": "ConClusion",
         "legacy": false
     },
     {
         "position": 98,
-        "name": "Instinct (Krazyman50Real)",
+        "name": "ta1LSD0ll",
         "legacy": false
     },
     {
-        "position": 100,
-        "name": "Hard Machine",
+        "position": 99,
+        "name": "Instinct (Krazyman50Real)",
         "legacy": false
     },
     {
@@ -686,302 +686,302 @@
     },
     {
         "position": 138,
-        "name": "Jupiter My Favourite",
+        "name": "Scrubbabingo force",
         "legacy": false
     },
     {
         "position": 139,
-        "name": "The Art of the Blade",
+        "name": "Jupiter My Favourite",
         "legacy": false
     },
     {
         "position": 140,
-        "name": "Silent Club",
+        "name": "The Art of the Blade",
         "legacy": false
     },
     {
         "position": 141,
-        "name": "Kappa",
+        "name": "Silent Club",
         "legacy": false
     },
     {
         "position": 142,
-        "name": "no jokes",
+        "name": "Kappa",
         "legacy": false
     },
     {
         "position": 143,
-        "name": "LD50",
+        "name": "no jokes",
         "legacy": false
     },
     {
         "position": 144,
-        "name": "Nabil Let Go",
+        "name": "LD50",
         "legacy": false
     },
     {
         "position": 145,
-        "name": "Bloodlust",
+        "name": "Nabil Let Go",
         "legacy": false
     },
     {
         "position": 146,
-        "name": "Asterios",
+        "name": "Bloodlust",
         "legacy": false
     },
     {
         "position": 147,
-        "name": "PROTON LAUNCHER",
+        "name": "Asterios",
         "legacy": false
     },
     {
         "position": 148,
-        "name": "Jesse Pinkman",
+        "name": "PROTON LAUNCHER",
         "legacy": false
     },
     {
         "position": 149,
-        "name": "Terminux",
+        "name": "Jesse Pinkman",
         "legacy": false
     },
     {
         "position": 150,
-        "name": "BarbarosFinaleFinale",
+        "name": "Terminux",
         "legacy": false
     },
     {
         "position": 151,
-        "name": "Twilight",
+        "name": "BarbarosFinaleFinale",
         "legacy": false
     },
     {
         "position": 152,
-        "name": "CITRA",
+        "name": "Twilight",
         "legacy": false
     },
     {
         "position": 153,
-        "name": "Deep Bass",
+        "name": "CITRA",
         "legacy": false
     },
     {
         "position": 154,
-        "name": "Awedsy",
+        "name": "Deep Bass",
         "legacy": false
     },
     {
         "position": 155,
-        "name": "Excruciation Chamber",
+        "name": "Awedsy",
         "legacy": false
     },
     {
         "position": 156,
-        "name": "Fog",
+        "name": "Excruciation Chamber",
         "legacy": false
     },
     {
         "position": 157,
-        "name": "MewneI",
+        "name": "Fog",
         "legacy": false
     },
     {
         "position": 158,
-        "name": "Gracefully",
+        "name": "MewneI",
         "legacy": false
     },
     {
         "position": 159,
-        "name": "Deimos (EndLevel)",
+        "name": "Gracefully",
         "legacy": false
     },
     {
         "position": 160,
+        "name": "Deimos (EndLevel)",
+        "legacy": false
+    },
+    {
+        "position": 161,
         "name": "Sazerix",
         "legacy": false
     },
     {
         "position": 162,
-        "name": "Sigma",
-        "legacy": false
-    },
-    {
-        "position": 162,
-        "name": "Atmos",
+        "name": "Congregation",
         "legacy": false
     },
     {
         "position": 163,
-        "name": "Sank",
+        "name": "Sigma",
         "legacy": false
     },
     {
         "position": 164,
-        "name": "Aronia",
+        "name": "Atmos",
         "legacy": false
     },
     {
         "position": 165,
-        "name": "untitled unmastered",
+        "name": "Sank",
         "legacy": false
     },
     {
         "position": 166,
-        "name": "Pagoda",
+        "name": "Aronia",
         "legacy": false
     },
     {
         "position": 167,
-        "name": "Moving Forward",
+        "name": "untitled unmastered",
         "legacy": false
     },
     {
         "position": 168,
-        "name": "DsinK",
+        "name": "Pagoda",
         "legacy": false
     },
     {
         "position": 169,
-        "name": "Pootis Engage XTREME",
+        "name": "Moving Forward",
         "legacy": false
     },
     {
         "position": 170,
-        "name": "IthacropoliX",
+        "name": "DsinK",
         "legacy": false
     },
     {
         "position": 171,
-        "name": "ATOMIC CANNON",
+        "name": "Pootis Engage XTREME",
         "legacy": false
     },
     {
         "position": 172,
-        "name": "Knights of Thunder",
+        "name": "IthacropoliX",
         "legacy": false
     },
     {
         "position": 173,
-        "name": "Cicatrize",
+        "name": "ATOMIC CANNON",
         "legacy": false
     },
     {
         "position": 174,
-        "name": "Dust Bowl",
+        "name": "Knights of Thunder",
         "legacy": false
     },
     {
         "position": 175,
-        "name": "Ploink",
+        "name": "Cicatrize",
         "legacy": false
     },
     {
         "position": 176,
-        "name": "Nhelv",
+        "name": "Dust Bowl",
         "legacy": false
     },
     {
         "position": 177,
-        "name": "Gustavo Fring",
+        "name": "Ploink",
         "legacy": false
     },
     {
         "position": 178,
-        "name": "FRIDAY",
+        "name": "Nhelv",
         "legacy": false
     },
     {
         "position": 179,
-        "name": "Farthest Outpost",
+        "name": "Gustavo Fring",
         "legacy": false
     },
     {
         "position": 180,
-        "name": "Ouroboros",
+        "name": "FRIDAY",
         "legacy": false
     },
     {
         "position": 181,
-        "name": "CONNECT",
+        "name": "Farthest Outpost",
         "legacy": false
     },
     {
         "position": 182,
-        "name": "Ourwa",
+        "name": "Ouroboros",
         "legacy": false
     },
     {
         "position": 183,
-        "name": "XRAY",
+        "name": "CONNECT",
         "legacy": false
     },
     {
         "position": 184,
-        "name": "kowareta",
+        "name": "Ourwa",
         "legacy": false
     },
     {
         "position": 185,
-        "name": "Hardry",
+        "name": "XRAY",
         "legacy": false
     },
     {
         "position": 186,
-        "name": "Dump",
+        "name": "kowareta",
         "legacy": false
     },
     {
         "position": 187,
-        "name": "Visible Ray",
+        "name": "Hardry",
         "legacy": false
     },
     {
         "position": 188,
-        "name": "SZYSLAK",
+        "name": "Dump",
         "legacy": false
     },
     {
         "position": 189,
+        "name": "Visible Ray",
+        "legacy": false
+    },
+    {
+        "position": 190,
+        "name": "SZYSLAK",
+        "legacy": false
+    },
+    {
+        "position": 191,
         "name": "Th3Dev0n",
         "legacy": false
     },
     {
-        "position": 191,
-        "name": "Scrubbabingo force",
-        "legacy": false
-    },
-    {
-        "position": 191,
+        "position": 192,
         "name": "The Yandere",
         "legacy": false
     },
     {
-        "position": 192,
+        "position": 193,
         "name": "Arctic Lights",
         "legacy": false
     },
     {
-        "position": 193,
+        "position": 194,
         "name": "Plasma Pulse Finale",
         "legacy": false
     },
     {
-        "position": 194,
+        "position": 195,
         "name": "Frozen Cave",
         "legacy": false
     },
     {
-        "position": 195,
+        "position": 196,
         "name": "WORSTBRAINMAP",
         "legacy": false
     },
     {
-        "position": 196,
+        "position": 197,
         "name": "EGO KILLING",
-        "legacy": false
-    },
-    {
-        "position": 198,
-        "name": "Congregation",
         "legacy": false
     },
     {
@@ -990,333 +990,333 @@
         "legacy": false
     },
     {
-        "position": 198,
-        "name": "LUMINA",
-        "legacy": false
-    },
-    {
-        "position": 200,
+        "position": 199,
         "name": "Spectrum Cyclone",
         "legacy": false
     },
     {
-        "position": 201,
+        "position": 200,
         "name": "Dedohexdragon",
         "legacy": false
     },
     {
-        "position": 202,
+        "position": 201,
         "name": "CRIDIUM",
         "legacy": false
     },
     {
-        "position": 203,
+        "position": 202,
         "name": "Fragmented",
         "legacy": false
     },
     {
-        "position": 204,
+        "position": 203,
         "name": "REPENTLESS",
         "legacy": false
     },
     {
-        "position": 205,
+        "position": 204,
         "name": "CHROMA FINALE",
         "legacy": false
     },
     {
-        "position": 206,
+        "position": 205,
         "name": "Aquatic Auroras",
         "legacy": false
     },
     {
-        "position": 207,
+        "position": 206,
         "name": "Storming Summit",
         "legacy": false
     },
     {
-        "position": 208,
+        "position": 207,
         "name": "Calamity",
         "legacy": false
     },
     {
-        "position": 209,
+        "position": 208,
         "name": "RAM",
         "legacy": false
     },
     {
-        "position": 210,
+        "position": 209,
         "name": "the wiener",
         "legacy": false
     },
     {
-        "position": 211,
+        "position": 210,
         "name": "nevermore",
         "legacy": false
     },
     {
-        "position": 212,
+        "position": 211,
         "name": "Fever Dream",
         "legacy": false
     },
     {
-        "position": 213,
+        "position": 212,
         "name": "Kjdf8314jlfssf",
         "legacy": false
     },
     {
-        "position": 214,
+        "position": 213,
         "name": "Shutdown",
         "legacy": false
     },
     {
-        "position": 215,
+        "position": 214,
         "name": "AKIRA",
         "legacy": false
     },
     {
-        "position": 216,
+        "position": 215,
         "name": "of Ambrosia",
         "legacy": false
     },
     {
-        "position": 217,
+        "position": 216,
         "name": "Mirrored Calamity",
         "legacy": false
     },
     {
-        "position": 218,
+        "position": 217,
         "name": "Iris of a Puppeteer",
         "legacy": false
     },
     {
-        "position": 219,
+        "position": 218,
         "name": "Requiem",
         "legacy": false
     },
     {
-        "position": 220,
+        "position": 219,
         "name": "Sparkling",
         "legacy": false
     },
     {
-        "position": 221,
+        "position": 220,
         "name": "Eternal Moment",
         "legacy": false
     },
     {
-        "position": 222,
+        "position": 221,
         "name": "Edge of the World",
         "legacy": false
     },
     {
-        "position": 223,
+        "position": 222,
         "name": "RANDOM ACCESS MEMORY",
         "legacy": false
     },
     {
-        "position": 224,
+        "position": 223,
         "name": "Beyond Hell",
         "legacy": false
     },
     {
-        "position": 225,
+        "position": 224,
         "name": "ConTroller",
         "legacy": false
     },
     {
-        "position": 226,
+        "position": 225,
         "name": "Omega",
         "legacy": false
     },
     {
-        "position": 227,
+        "position": 226,
         "name": "Gamma",
         "legacy": false
     },
     {
-        "position": 228,
+        "position": 227,
         "name": "Dance of the Violins",
         "legacy": false
     },
     {
-        "position": 229,
+        "position": 228,
         "name": "network (VanDerVals)",
         "legacy": false
     },
     {
-        "position": 230,
+        "position": 229,
         "name": "Spacial Rend",
         "legacy": false
     },
     {
-        "position": 231,
+        "position": 230,
         "name": "Collect All Pets",
         "legacy": false
     },
     {
-        "position": 232,
+        "position": 231,
         "name": "GBS",
         "legacy": false
     },
     {
-        "position": 233,
+        "position": 232,
         "name": "Wasureta",
         "legacy": false
     },
     {
-        "position": 234,
+        "position": 233,
         "name": "Ryft",
         "legacy": false
     },
     {
-        "position": 235,
+        "position": 234,
         "name": "Hyper Paracosm",
         "legacy": false
     },
     {
-        "position": 236,
+        "position": 235,
         "name": "Macabre",
         "legacy": false
     },
     {
-        "position": 237,
+        "position": 236,
         "name": "Cybernetic Crescent",
         "legacy": false
     },
     {
-        "position": 238,
+        "position": 237,
         "name": "OVERKILL",
         "legacy": false
     },
     {
-        "position": 239,
+        "position": 238,
         "name": "Sink",
         "legacy": false
     },
     {
-        "position": 240,
+        "position": 239,
         "name": "Sewers",
         "legacy": false
     },
     {
-        "position": 241,
+        "position": 240,
         "name": "FIFTY THREE",
         "legacy": false
     },
     {
-        "position": 242,
+        "position": 241,
         "name": "Golden Club",
         "legacy": false
     },
     {
-        "position": 243,
+        "position": 242,
         "name": "ELLIPSISM",
         "legacy": false
     },
     {
-        "position": 244,
+        "position": 243,
         "name": "Cersia Madness",
         "legacy": false
     },
     {
-        "position": 245,
+        "position": 244,
         "name": "ASHES",
         "legacy": false
     },
     {
-        "position": 246,
+        "position": 245,
         "name": "The Hell Tribute",
         "legacy": false
     },
     {
-        "position": 247,
+        "position": 246,
         "name": "Sonic Wave Rebirth",
         "legacy": false
     },
     {
-        "position": 248,
+        "position": 247,
         "name": "Sonic Wave",
         "legacy": false
     },
     {
-        "position": 249,
+        "position": 248,
         "name": "Infinite Iniquity",
         "legacy": false
     },
     {
-        "position": 250,
+        "position": 249,
         "name": "Bete Noire",
         "legacy": false
     },
     {
-        "position": 251,
+        "position": 250,
         "name": "Molten Gear",
         "legacy": false
     },
     {
-        "position": 252,
+        "position": 251,
         "name": "Shmarley Ville",
         "legacy": false
     },
     {
-        "position": 253,
+        "position": 252,
         "name": "Cersia Difficult",
         "legacy": false
     },
     {
-        "position": 254,
+        "position": 253,
         "name": "Sephiroth",
         "legacy": false
     },
     {
-        "position": 255,
+        "position": 254,
         "name": "Necromancer",
         "legacy": false
     },
     {
-        "position": 256,
+        "position": 255,
         "name": "Cosmic Ray",
         "legacy": false
     },
     {
-        "position": 257,
+        "position": 256,
         "name": "Yatagarasu",
         "legacy": false
     },
     {
-        "position": 258,
+        "position": 257,
         "name": "GONER",
         "legacy": false
     },
     {
-        "position": 259,
+        "position": 258,
         "name": "reeses potentially",
         "legacy": false
     },
     {
-        "position": 260,
+        "position": 259,
         "name": "Rage",
         "legacy": false
     },
     {
-        "position": 261,
+        "position": 260,
         "name": "Kuzureta",
         "legacy": false
     },
     {
-        "position": 262,
+        "position": 261,
         "name": "X0",
         "legacy": false
     },
     {
-        "position": 263,
+        "position": 262,
         "name": "Edge of the Blade",
         "legacy": false
     },
     {
-        "position": 264,
+        "position": 263,
         "name": "Silentium Clavas",
+        "legacy": false
+    },
+    {
+        "position": 264,
+        "name": "LUMINA",
         "legacy": false
     },
     {
@@ -1510,8 +1510,8 @@
         "legacy": false
     },
     {
-        "name": "The Fog",
         "position": 303,
+        "name": "The Fog",
         "legacy": false
     },
     {
@@ -2140,427 +2140,422 @@
         "legacy": false
     },
     {
-        "position": 428,
+        "position": 429,
         "name": "eternal entropy",
         "legacy": false
     },
     {
-        "position": 429,
+        "position": 430,
         "name": "CHROMA II",
         "legacy": false
     },
     {
-        "position": 430,
+        "position": 431,
         "name": "Auditory Breaker",
         "legacy": false
     },
     {
-        "position": 431,
+        "position": 432,
         "name": "Ziroikabi",
         "legacy": false
     },
     {
-        "position": 432,
+        "position": 433,
         "name": "Pandemonium (Yakimaru)",
         "legacy": false
     },
     {
-        "position": 433,
+        "position": 434,
         "name": "Furious Flames",
         "legacy": false
     },
     {
-        "position": 434,
+        "position": 435,
         "name": "Hyperchaos",
         "legacy": false
     },
     {
-        "position": 435,
+        "position": 436,
         "name": "Based Gang (Solo)",
         "legacy": false
     },
     {
-        "position": 435,
+        "position": 437,
         "name": "rosedynamix",
         "legacy": false
     },
     {
-        "position": 436,
+        "position": 438,
         "name": "The Sulphur Sea",
         "legacy": false
     },
     {
-        "position": 437,
+        "position": 439,
         "name": "Hatred",
         "legacy": false
     },
     {
-        "position": 438,
+        "position": 440,
         "name": "Breakout Redux",
         "legacy": false
     },
     {
-        "position": 439,
+        "position": 441,
         "name": "GREAT FURY OF HEAVEN",
         "legacy": false
     },
     {
-        "position": 440,
+        "position": 442,
         "name": "Galactic Shift",
         "legacy": false
     },
     {
-        "position": 441,
+        "position": 443,
         "name": "ULTRA VIOLET",
         "legacy": false
     },
     {
-        "position": 442,
+        "position": 444,
         "name": "memories",
         "legacy": false
     },
     {
-        "position": 443,
+        "position": 445,
         "name": "Io",
         "legacy": false
     },
     {
-        "position": 444,
+        "position": 446,
         "name": "miss you",
         "legacy": false
     },
     {
-        "position": 445,
+        "position": 447,
         "name": "My Worst Demon Level",
         "legacy": false
     },
     {
-        "position": 446,
+        "position": 448,
         "name": "Berserk",
         "legacy": false
     },
     {
-        "position": 447,
+        "position": 449,
         "name": "Cadrega Mode",
         "legacy": false
     },
     {
-        "position": 448,
+        "position": 450,
         "name": "Gateway",
         "legacy": false
     },
     {
-        "position": 449,
+        "position": 451,
         "name": "Hyper Paradox",
         "legacy": false
     },
     {
-        "position": 450,
+        "position": 452,
         "name": "Voltage",
         "legacy": false
     },
     {
-        "position": 451,
+        "position": 453,
         "name": "Ziroikapi",
         "legacy": false
     },
     {
-        "position": 452,
+        "position": 454,
         "name": "Bang Gang (Solo)",
         "legacy": false
     },
     {
-        "position": 452,
+        "position": 455,
         "name": "Surge of Memories",
         "legacy": false
     },
     {
-        "position": 453,
+        "position": 456,
         "name": "Worse Trip",
         "legacy": false
     },
     {
-        "position": 454,
+        "position": 457,
         "name": "Surge of the Shield",
         "legacy": false
     },
     {
-        "position": 455,
+        "position": 458,
         "name": "Spectrum Split",
         "legacy": false
     },
     {
-        "position": 456,
+        "position": 459,
         "name": "devoid",
         "legacy": false
     },
     {
-        "position": 457,
+        "position": 460,
         "name": "Ouroboros Startpos 2",
         "legacy": false
     },
     {
-        "position": 458,
+        "position": 461,
         "name": "SubSonic",
         "legacy": false
     },
     {
-        "position": 459,
+        "position": 462,
         "name": "Dolos",
         "legacy": false
     },
     {
-        "position": 460,
+        "position": 463,
         "name": "Glitched Memories",
         "legacy": false
     },
     {
-        "position": 461,
+        "position": 464,
         "name": "Audio Expulsion",
         "legacy": false
     },
     {
-        "position": 462,
+        "position": 465,
         "name": "MONSTROSITY",
         "legacy": false
     },
     {
-        "position": 463,
+        "position": 466,
         "name": "Unfair Evening",
         "legacy": false
     },
     {
-        "position": 464,
+        "position": 467,
         "name": "project girlboss",
         "legacy": false
     },
     {
-        "position": 465,
+        "position": 468,
         "name": "Crippled Depression",
         "legacy": false
     },
     {
-        "position": 466,
+        "position": 469,
         "name": "Anoxysm",
         "legacy": false
     },
     {
-        "position": 467,
+        "position": 470,
         "name": "Lovestruck",
         "legacy": false
     },
     {
-        "position": 468,
+        "position": 471,
         "name": "The Cellar Path",
         "legacy": false
     },
     {
-        "position": 469,
+        "position": 472,
         "name": "The Hell Inferno",
         "legacy": false
     },
     {
-        "position": 470,
+        "position": 473,
         "name": "ikaros",
         "legacy": false
     },
     {
-        "position": 471,
+        "position": 474,
         "name": "Kinetic Bypass",
         "legacy": false
     },
     {
-        "position": 472,
+        "position": 475,
         "name": "Boogie",
         "legacy": false
     },
     {
-        "position": 473,
+        "position": 476,
         "name": "Mujigae",
         "legacy": false
     },
     {
-        "position": 474,
+        "position": 477,
         "name": "Betrayal of Destiny",
         "legacy": false
     },
     {
-        "position": 475,
+        "position": 478,
         "name": "Shock Therapy",
         "legacy": false
     },
     {
-        "position": 476,
+        "position": 479,
         "name": "i hate you",
         "legacy": false
     },
     {
-        "position": 477,
+        "position": 480,
         "name": "Vivacious",
         "legacy": false
     },
     {
-        "position": 478,
+        "position": 481,
         "name": "SINGULARITY",
         "legacy": false
     },
     {
-        "position": 479,
+        "position": 482,
         "name": "multi arm",
         "legacy": false
     },
     {
-        "position": 480,
+        "position": 483,
         "name": "Adrenaline",
         "legacy": false
     },
     {
-        "position": 481,
+        "position": 484,
         "name": "Cheyenne",
         "legacy": false
     },
     {
-        "position": 482,
+        "position": 485,
         "name": "The Hell World",
         "legacy": false
     },
     {
-        "position": 482,
-        "name": "DICHOTOMY (solo)",
-        "legacy": false
-    },
-    {
-        "position": 484,
+        "position": 486,
         "name": "ErebuS (Platnuu)",
         "legacy": false
     },
     {
-        "position": 485,
+        "position": 487,
         "name": "ruber cash 22",
         "legacy": false
     },
     {
-        "position": 486,
+        "position": 488,
         "name": "Dusker Processing",
         "legacy": false
     },
     {
-        "position": 487,
+        "position": 489,
         "name": "Endless Dream",
         "legacy": false
     },
     {
-        "position": 488,
+        "position": 490,
         "name": "Removed Submission",
         "legacy": false
     },
     {
-        "position": 489,
+        "position": 491,
         "name": "SPEEDRUN",
         "legacy": false
     },
     {
-        "position": 490,
+        "position": 492,
         "name": "Coolie Mazie Paloozi",
         "legacy": false
     },
     {
-        "position": 491,
+        "position": 493,
         "name": "Athanatos",
         "legacy": false
     },
     {
-        "position": 492,
+        "position": 494,
         "name": "Shock Breaker",
         "legacy": false
     },
     {
-        "position": 493,
+        "position": 495,
         "name": "Loose Screws",
         "legacy": false
     },
     {
-        "position": 494,
+        "position": 496,
         "name": "Microsoft DriveThru",
         "legacy": false
     },
     {
-        "position": 495,
+        "position": 497,
         "name": "New Record",
         "legacy": false
     },
     {
-        "position": 497,
+        "position": 498,
         "name": "milo",
         "legacy": false
     },
     {
-        "position": 498,
+        "position": 499,
         "name": "Wild Rose",
         "legacy": false
     },
     {
-        "position": 499,
+        "position": 500,
         "name": "Infernal Abyss",
         "legacy": false
     },
     {
-        "position": 500,
+        "position": 501,
         "name": "Fabricated Thoughts",
         "legacy": false
     },
     {
-        "position": 501,
+        "position": 502,
         "name": "reset your mind",
         "legacy": false
     },
     {
-        "position": 502,
+        "position": 503,
         "name": "Curie",
         "legacy": false
     },
     {
-        "position": 503,
+        "position": 504,
         "name": "Air Fryer",
         "legacy": false
     },
     {
-        "position": 504,
+        "position": 505,
         "name": "Eleos",
         "legacy": false
     },
     {
-        "position": 505,
+        "position": 506,
         "name": "RASH",
         "legacy": false
     },
     {
-        "position": 506,
+        "position": 507,
         "name": "xuser morelike luser",
         "legacy": false
     },
     {
-        "position": 507,
+        "position": 508,
         "name": "S3NT1M3NT",
         "legacy": false
     },
     {
-        "position": 508,
+        "position": 509,
         "name": "Ithacropolis",
         "legacy": false
     },
     {
-        "position": 509,
+        "position": 510,
         "name": "Tunnel",
         "legacy": false
     },
     {
-        "position": 510,
+        "position": 511,
         "name": "TeaM Z",
         "legacy": false
     },
     {
-        "position": 511,
+        "position": 512,
         "name": "hot rod",
         "legacy": false
     },
@@ -2600,263 +2595,268 @@
         "legacy": false
     },
     {
-        "position": 521,
+        "position": 520,
         "name": "OneAttempt",
         "legacy": false
     },
     {
-        "position": 522,
+        "position": 521,
         "name": "Supreme Demon Mix",
         "legacy": false
     },
     {
-        "position": 523,
+        "position": 522,
         "name": "Advanced AirStream",
         "legacy": false
     },
     {
-        "position": 524,
+        "position": 523,
         "name": "EnvY",
         "legacy": false
     },
     {
-        "position": 525,
+        "position": 524,
         "name": "FusionDynamix",
         "legacy": false
     },
     {
-        "position": 526,
+        "position": 525,
         "name": "Carnage Mode",
         "legacy": false
     },
     {
-        "position": 527,
+        "position": 526,
         "name": "PROTOFLICKER",
         "legacy": false
     },
     {
-        "position": 528,
+        "position": 527,
         "name": "The Old Trail",
         "legacy": false
     },
     {
-        "position": 529,
+        "position": 528,
         "name": "Asmodeus",
         "legacy": false
     },
     {
-        "position": 530,
+        "position": 529,
         "name": "Tenth Circle",
         "legacy": false
     },
     {
-        "position": 531,
+        "position": 530,
         "name": "Poltergeist Reborn",
         "legacy": false
     },
     {
-        "position": 532,
+        "position": 531,
         "name": "Falcon16",
         "legacy": false
     },
     {
-        "position": 533,
+        "position": 532,
         "name": "VendetTa",
         "legacy": false
     },
     {
-        "position": 534,
+        "position": 533,
         "name": "Blade of Justice",
         "legacy": false
     },
     {
-        "position": 535,
+        "position": 534,
         "name": "Dimension Breaker",
         "legacy": false
     },
     {
-        "position": 536,
+        "position": 535,
         "name": "Freedom19",
         "legacy": false
     },
     {
-        "position": 537,
+        "position": 536,
         "name": "Caution",
         "legacy": false
     },
     {
-        "position": 538,
+        "position": 537,
         "name": "Phobos",
         "legacy": false
     },
     {
-        "position": 539,
+        "position": 538,
         "name": "Masochism",
         "legacy": false
     },
     {
-        "position": 540,
+        "position": 539,
         "name": "Abandoned Planet",
         "legacy": false
     },
     {
-        "position": 541,
+        "position": 540,
         "name": "THE PRINCE",
         "legacy": false
     },
     {
-        "position": 542,
+        "position": 541,
         "name": "Twilight Coexistence",
         "legacy": false
     },
     {
-        "position": 543,
+        "position": 542,
         "name": "Showdown",
         "legacy": false
     },
     {
-        "position": 544,
+        "position": 543,
         "name": "Silentium Gradas",
         "legacy": false
     },
     {
-        "position": 545,
+        "position": 544,
         "name": "Le Midd Mapperoonies",
         "legacy": false
     },
     {
-        "position": 546,
+        "position": 545,
         "name": "Shibui",
         "legacy": false
     },
     {
-        "position": 547,
+        "position": 546,
         "name": "EXPLICIT",
         "legacy": false
     },
     {
-        "position": 548,
+        "position": 547,
         "name": "Sakupen Hell",
         "legacy": false
     },
     {
-        "position": 549,
+        "position": 548,
         "name": "Ancestral Calamity",
         "legacy": false
     },
     {
-        "position": 550,
+        "position": 549,
         "name": "Zinhwa",
         "legacy": false
     },
     {
-        "position": 551,
+        "position": 550,
         "name": "Sunk",
         "legacy": false
     },
     {
-        "position": 552,
+        "position": 551,
         "name": "Artifice",
         "legacy": false
     },
     {
-        "position": 553,
+        "position": 552,
         "name": "Universe on fire",
         "legacy": false
     },
     {
-        "position": 554,
+        "position": 553,
         "name": "unsaved changes",
         "legacy": false
     },
     {
-        "position": 555,
+        "position": 554,
         "name": "Alpha Baa X",
         "legacy": false
     },
     {
-        "position": 556,
+        "position": 555,
         "name": "Betrayal of Fate",
         "legacy": false
     },
     {
-        "position": 557,
+        "position": 556,
         "name": "Last Stop",
         "legacy": false
     },
     {
-        "position": 558,
+        "position": 557,
         "name": "Advent Aurora",
         "legacy": false
     },
     {
-        "position": 559,
+        "position": 558,
         "name": "help",
         "legacy": false
     },
     {
-        "position": 560,
+        "position": 559,
         "name": "SUPERMAYOHATECLUB",
         "legacy": false
     },
     {
-        "position": 561,
+        "position": 560,
         "name": "Hateful Reflection",
         "legacy": false
     },
     {
-        "position": 562,
+        "position": 561,
         "name": "Triadic Trials",
         "legacy": false
     },
     {
-        "position": 563,
+        "position": 562,
         "name": "Infinite Inversion",
         "legacy": false
     },
     {
-        "position": 564,
+        "position": 563,
         "name": "Sapphire Angel",
         "legacy": false
     },
     {
-        "position": 565,
+        "position": 564,
         "name": "Fusion Z",
         "legacy": false
     },
     {
-        "position": 566,
+        "position": 565,
         "name": "Carcano",
         "legacy": false
     },
     {
-        "position": 567,
+        "position": 566,
         "name": "Vortex of Time",
         "legacy": false
     },
     {
-        "position": 568,
+        "position": 567,
         "name": "Anahita",
         "legacy": false
     },
     {
-        "position": 569,
+        "position": 568,
         "name": "Untitled",
         "legacy": false
     },
     {
-        "position": 570,
+        "position": 569,
         "name": "Epsilon",
         "legacy": false
     },
     {
-        "position": 571,
+        "position": 570,
         "name": "Intrusive ID",
         "legacy": false
     },
     {
-        "position": 572,
+        "position": 571,
         "name": "Atmosphere",
+        "legacy": false
+    },
+    {
+        "position": 572,
+        "name": "DICHOTOMY (solo)",
         "legacy": false
     },
     {
