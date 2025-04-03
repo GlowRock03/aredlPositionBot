@@ -288,7 +288,7 @@ async def on_message(message):
             if setting == "sheetName":
                 user_configs[user_id]["sheetName"] = value
             elif setting == "sheetPage":
-                user_configs[user_id]["sheetPage"] = int(value)
+                user_configs[user_id]["sheetPage"] = value
             elif setting == "levelNameColumn":
                 user_configs[user_id]["levelNameColumn"] = value
             elif setting == "positionColumn":
