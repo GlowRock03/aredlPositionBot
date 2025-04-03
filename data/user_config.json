@@ -1,8 +1,14 @@
 {
     "316712666427031553": {
         "sheetName": "Extreme Demon Tracker",
-        "sheetPage": "To Do List",
+        "sheetPage": 2,
         "levelNameColumn": "C",
         "positionColumn": "D"
+    },
+    "239390587202174976": {
+        "sheetName": "Demon Tracker",
+        "sheetPage": 1,
+        "levelNameColumn": "B",
+        "positionColumn": "C"
     }
 }
