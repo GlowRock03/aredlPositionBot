@@ -75,13 +75,13 @@
         "legacy": false
     },
     {
-        "position": 16,
-        "name": "kocmoc",
+        "position": 15,
+        "name": "menace",
         "legacy": false
     },
     {
         "position": 17,
-        "name": "menace",
+        "name": "kocmoc",
         "legacy": false
     },
     {
@@ -2405,178 +2405,183 @@
         "legacy": false
     },
     {
-        "position": 482,
+        "position": 481,
         "name": "singularity",
         "legacy": false
     },
     {
-        "position": 483,
+        "position": 482,
         "name": "multi arm",
         "legacy": false
     },
     {
-        "position": 484,
+        "position": 483,
         "name": "adrenaline",
         "legacy": false
     },
     {
-        "position": 485,
+        "position": 484,
         "name": "cheyenne",
         "legacy": false
     },
     {
-        "position": 486,
+        "position": 485,
         "name": "the hell world",
         "legacy": false
     },
     {
-        "position": 487,
+        "position": 486,
         "name": "erebus (platnuu)",
         "legacy": false
     },
     {
-        "position": 488,
+        "position": 487,
         "name": "ruber cash 22",
         "legacy": false
     },
     {
-        "position": 489,
+        "position": 488,
         "name": "dusker processing",
         "legacy": false
     },
     {
-        "position": 490,
+        "position": 489,
         "name": "endless dream",
         "legacy": false
     },
     {
-        "position": 491,
+        "position": 490,
         "name": "removed submission",
         "legacy": false
     },
     {
-        "position": 492,
+        "position": 491,
         "name": "speedrun",
         "legacy": false
     },
     {
-        "position": 493,
+        "position": 492,
         "name": "coolie mazie paloozi",
         "legacy": false
     },
     {
-        "position": 494,
+        "position": 493,
         "name": "athanatos",
         "legacy": false
     },
     {
-        "position": 495,
+        "position": 494,
         "name": "shock breaker",
         "legacy": false
     },
     {
-        "position": 496,
+        "position": 495,
         "name": "loose screws",
         "legacy": false
     },
     {
-        "position": 497,
+        "position": 496,
         "name": "microsoft drivethru",
         "legacy": false
     },
     {
-        "position": 498,
+        "position": 497,
         "name": "new record",
         "legacy": false
     },
     {
-        "position": 499,
+        "position": 498,
         "name": "milo",
         "legacy": false
     },
     {
-        "position": 500,
+        "position": 499,
         "name": "wild rose",
         "legacy": false
     },
     {
-        "position": 501,
+        "position": 500,
         "name": "infernal abyss",
         "legacy": false
     },
     {
-        "position": 502,
+        "position": 501,
         "name": "fabricated thoughts",
         "legacy": false
     },
     {
-        "position": 503,
+        "position": 502,
         "name": "reset your mind",
         "legacy": false
     },
     {
-        "position": 504,
+        "position": 503,
         "name": "curie",
         "legacy": false
     },
     {
-        "position": 505,
+        "position": 504,
         "name": "air fryer",
         "legacy": false
     },
     {
-        "position": 506,
+        "position": 505,
         "name": "eleos",
         "legacy": false
     },
     {
-        "position": 507,
+        "position": 506,
         "name": "rash",
         "legacy": false
     },
     {
-        "position": 508,
+        "position": 507,
         "name": "xuser morelike luser",
         "legacy": false
     },
     {
-        "position": 509,
+        "position": 508,
         "name": "s3nt1m3nt",
         "legacy": false
     },
     {
-        "position": 510,
+        "position": 509,
         "name": "ithacropolis",
         "legacy": false
     },
     {
-        "position": 511,
+        "position": 510,
         "name": "tunnel",
         "legacy": false
     },
     {
-        "position": 512,
+        "position": 511,
         "name": "team z",
         "legacy": false
     },
     {
-        "position": 513,
+        "position": 512,
         "name": "hot rod",
         "legacy": false
     },
     {
-        "position": 514,
+        "position": 513,
         "name": "madmansion",
         "legacy": false
     },
     {
-        "position": 515,
+        "position": 514,
         "name": "mystic",
         "legacy": false
     },
     {
         "position": 516,
         "name": "aether (zerosr)",
+        "legacy": false
+    },
+    {
+        "position": 516,
+        "name": "dichotomy (solo)",
         "legacy": false
     },
     {
@@ -2857,11 +2862,6 @@
     {
         "position": 572,
         "name": "atmosphere",
-        "legacy": false
-    },
-    {
-        "position": 573,
-        "name": "dichotomy (solo)",
         "legacy": false
     },
     {
