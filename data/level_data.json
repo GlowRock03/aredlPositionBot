@@ -226,42 +226,42 @@
     },
     {
         "position": 46,
-        "name": "unknown",
-        "legacy": false
-    },
-    {
-        "position": 47,
         "name": "beeline (solo)",
         "legacy": false
     },
     {
-        "position": 48,
+        "position": 47,
         "name": "sonic wave infinity",
         "legacy": false
     },
     {
-        "position": 49,
+        "position": 48,
         "name": "damascus",
         "legacy": false
     },
     {
-        "position": 50,
+        "position": 49,
         "name": "waterfall",
         "legacy": false
     },
     {
-        "position": 51,
+        "position": 50,
         "name": "bpata mpaka",
         "legacy": false
     },
     {
         "name": "crystal crusher",
-        "position": 52,
+        "position": 51,
         "legacy": false
     },
     {
-        "position": 53,
+        "position": 52,
         "name": "tartarus",
+        "legacy": false
+    },
+    {
+        "position": 54,
+        "name": "unknown",
         "legacy": false
     },
     {
@@ -355,28 +355,28 @@
         "legacy": false
     },
     {
-        "position": 72,
-        "name": "judgement knights",
+        "position": 71,
+        "name": "destruction 19",
         "legacy": false
     },
     {
         "position": 73,
-        "name": "kenos",
+        "name": "judgement knights",
         "legacy": false
     },
     {
         "position": 74,
-        "name": "zodiac",
+        "name": "kenos",
         "legacy": false
     },
     {
         "position": 75,
-        "name": "esfera",
+        "name": "zodiac",
         "legacy": false
     },
     {
         "position": 76,
-        "name": "destruction 19",
+        "name": "esfera",
         "legacy": false
     },
     {
