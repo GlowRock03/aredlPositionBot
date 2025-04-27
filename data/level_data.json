@@ -596,17 +596,17 @@
     },
     {
         "position": 120,
-        "name": "launchpad labyrinth",
-        "legacy": false
-    },
-    {
-        "position": 121,
         "name": "lucid nightmares",
         "legacy": false
     },
     {
-        "position": 122,
+        "position": 121,
         "name": "cobwebs",
+        "legacy": false
+    },
+    {
+        "position": 123,
+        "name": "launchpad labyrinth",
         "legacy": false
     },
     {
