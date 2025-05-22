@@ -260,43 +260,43 @@
         "legacy": false
     },
     {
-        "position": 53,
-        "name": "crystal crusher (solo)",
+        "position": 52,
+        "name": "coalescence",
         "legacy": false
     },
     {
         "position": 54,
-        "name": "tartarus",
+        "name": "crystal crusher (solo)",
         "legacy": false
     },
     {
         "position": 55,
-        "name": "climax",
+        "name": "tartarus",
         "legacy": false
     },
     {
         "position": 56,
-        "name": "jigsaw",
+        "name": "climax",
         "legacy": false
     },
     {
         "position": 57,
-        "name": "unknown",
+        "name": "jigsaw",
         "legacy": false
     },
     {
         "position": 58,
-        "name": "oblivion",
+        "name": "unknown",
         "legacy": false
     },
     {
         "position": 59,
-        "name": "viprin ufo",
+        "name": "oblivion",
         "legacy": false
     },
     {
         "position": 60,
-        "name": "coalescence",
+        "name": "viprin ufo",
         "legacy": false
     },
     {
@@ -2300,128 +2300,128 @@
         "legacy": false
     },
     {
-        "name": "valovi",
-        "position": 461,
+        "position": 460,
+        "name": "shock therapy",
         "legacy": false
     },
     {
+        "name": "valovi",
         "position": 462,
-        "name": "surge of memories",
         "legacy": false
     },
     {
         "position": 463,
-        "name": "worse trip",
+        "name": "surge of memories",
         "legacy": false
     },
     {
         "position": 464,
-        "name": "surge of the shield",
+        "name": "worse trip",
         "legacy": false
     },
     {
         "position": 465,
-        "name": "spectrum split",
+        "name": "surge of the shield",
         "legacy": false
     },
     {
         "position": 466,
-        "name": "devoid",
+        "name": "spectrum split",
         "legacy": false
     },
     {
         "position": 467,
-        "name": "ouroboros startpos 2",
+        "name": "devoid",
         "legacy": false
     },
     {
         "position": 468,
-        "name": "subsonic",
+        "name": "ouroboros startpos 2",
         "legacy": false
     },
     {
         "position": 469,
-        "name": "dolos",
+        "name": "subsonic",
         "legacy": false
     },
     {
         "position": 470,
-        "name": "glitched memories",
+        "name": "dolos",
         "legacy": false
     },
     {
         "position": 471,
-        "name": "audio expulsion",
+        "name": "glitched memories",
         "legacy": false
     },
     {
         "position": 472,
-        "name": "monstrosity",
+        "name": "audio expulsion",
         "legacy": false
     },
     {
         "position": 473,
-        "name": "unfair evening",
+        "name": "monstrosity",
         "legacy": false
     },
     {
         "position": 474,
-        "name": "project girlboss",
+        "name": "unfair evening",
         "legacy": false
     },
     {
         "position": 475,
-        "name": "crippled depression",
+        "name": "project girlboss",
         "legacy": false
     },
     {
         "position": 476,
-        "name": "anoxysm",
+        "name": "crippled depression",
         "legacy": false
     },
     {
         "position": 477,
-        "name": "lovestruck",
+        "name": "anoxysm",
         "legacy": false
     },
     {
         "position": 478,
-        "name": "the cellar path",
+        "name": "lovestruck",
         "legacy": false
     },
     {
         "position": 479,
-        "name": "the hell inferno",
+        "name": "the cellar path",
         "legacy": false
     },
     {
         "position": 480,
-        "name": "ikaros",
+        "name": "the hell inferno",
         "legacy": false
     },
     {
         "position": 481,
-        "name": "kinetic bypass",
+        "name": "ikaros",
         "legacy": false
     },
     {
         "position": 482,
-        "name": "boogie",
+        "name": "kinetic bypass",
         "legacy": false
     },
     {
         "position": 483,
-        "name": "mujigae",
+        "name": "boogie",
         "legacy": false
     },
     {
         "position": 484,
-        "name": "betrayal of destiny",
+        "name": "mujigae",
         "legacy": false
     },
     {
         "position": 485,
-        "name": "shock therapy",
+        "name": "betrayal of destiny",
         "legacy": false
     },
     {
