@@ -285,48 +285,48 @@
         "legacy": false
     },
     {
-        "position": 58,
+        "position": 57,
+        "name": "delta",
+        "legacy": false
+    },
+    {
+        "position": 59,
         "name": "unknown",
         "legacy": false
     },
     {
         "name": "cimmerian shade",
-        "position": 59,
-        "legacy": false
-    },
-    {
         "position": 60,
-        "name": "oblivion",
         "legacy": false
     },
     {
         "position": 61,
-        "name": "viprin ufo",
+        "name": "oblivion",
         "legacy": false
     },
     {
         "position": 62,
-        "name": "the golden",
+        "name": "viprin ufo",
         "legacy": false
     },
     {
         "position": 63,
-        "name": "natural disaster",
+        "name": "the golden",
         "legacy": false
     },
     {
         "position": 64,
-        "name": "verdant landscape",
+        "name": "natural disaster",
         "legacy": false
     },
     {
         "position": 65,
-        "name": "atomic cannon mk iii",
+        "name": "verdant landscape",
         "legacy": false
     },
     {
         "position": 66,
-        "name": "delta",
+        "name": "atomic cannon mk iii",
         "legacy": false
     },
     {
