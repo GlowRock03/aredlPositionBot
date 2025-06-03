@@ -256,37 +256,37 @@
     },
     {
         "position": 52,
-        "name": "bpata mpaka",
-        "legacy": false
-    },
-    {
-        "position": 52,
         "name": "coalescence",
         "legacy": false
     },
     {
-        "position": 54,
+        "position": 53,
         "name": "crystal crusher (solo)",
         "legacy": false
     },
     {
-        "position": 55,
+        "position": 54,
         "name": "tartarus",
         "legacy": false
     },
     {
-        "position": 56,
+        "position": 55,
         "name": "climax",
         "legacy": false
     },
     {
-        "position": 57,
+        "position": 56,
         "name": "jigsaw",
         "legacy": false
     },
     {
-        "position": 57,
+        "position": 56,
         "name": "delta",
+        "legacy": false
+    },
+    {
+        "position": 59,
+        "name": "bpata mpaka",
         "legacy": false
     },
     {
