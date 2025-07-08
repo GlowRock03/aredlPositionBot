@@ -1275,47 +1275,47 @@
         "legacy": false
     },
     {
-        "position": 255,
-        "name": "sonic wave",
-        "legacy": false
-    },
-    {
-        "position": 256,
-        "name": "infinite iniquity",
-        "legacy": false
-    },
-    {
-        "position": 257,
-        "name": "bete noire",
-        "legacy": false
-    },
-    {
-        "position": 257,
-        "name": "molten gear",
-        "legacy": false
-    },
-    {
-        "position": 258,
-        "name": "shmarley ville",
-        "legacy": false
-    },
-    {
-        "position": 259,
-        "name": "cersia difficult",
-        "legacy": false
-    },
-    {
-        "position": 260,
-        "name": "sephiroth",
-        "legacy": false
-    },
-    {
-        "position": 261,
+        "position": 254,
         "name": "necromancer",
         "legacy": false
     },
     {
+        "position": 256,
+        "name": "sonic wave",
+        "legacy": false
+    },
+    {
+        "position": 257,
+        "name": "infinite iniquity",
+        "legacy": false
+    },
+    {
+        "position": 258,
+        "name": "bete noire",
+        "legacy": false
+    },
+    {
+        "position": 258,
+        "name": "molten gear",
+        "legacy": false
+    },
+    {
+        "position": 259,
+        "name": "shmarley ville",
+        "legacy": false
+    },
+    {
+        "position": 260,
+        "name": "cersia difficult",
+        "legacy": false
+    },
+    {
         "position": 261,
+        "name": "sephiroth",
+        "legacy": false
+    },
+    {
+        "position": 262,
         "name": "the fog",
         "legacy": false
     },
