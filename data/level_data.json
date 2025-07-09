@@ -2531,87 +2531,87 @@
     },
     {
         "position": 507,
-        "name": "removed submission",
-        "legacy": false
-    },
-    {
-        "position": 508,
         "name": "speedrun",
         "legacy": false
     },
     {
-        "position": 509,
+        "position": 508,
         "name": "athanatos",
         "legacy": false
     },
     {
-        "position": 510,
+        "position": 509,
         "name": "shock breaker",
         "legacy": false
     },
     {
-        "position": 511,
+        "position": 510,
         "name": "loose screws",
         "legacy": false
     },
     {
-        "position": 512,
+        "position": 511,
         "name": "microsoft drivethru",
         "legacy": false
     },
     {
-        "position": 513,
+        "position": 512,
         "name": "gentlemens clique (solo)",
         "legacy": false
     },
     {
-        "position": 514,
+        "position": 513,
         "name": "new record",
         "legacy": false
     },
     {
-        "position": 515,
+        "position": 514,
         "name": "wild rose",
         "legacy": false
     },
     {
-        "position": 516,
+        "position": 515,
         "name": "infernal abyss",
         "legacy": false
     },
     {
-        "position": 517,
+        "position": 516,
         "name": "fabricated thoughts",
         "legacy": false
     },
     {
-        "position": 518,
+        "position": 517,
         "name": "reset your mind",
         "legacy": false
     },
     {
-        "position": 519,
+        "position": 518,
         "name": "curie",
         "legacy": false
     },
     {
-        "position": 520,
+        "position": 519,
         "name": "eleos",
         "legacy": false
     },
     {
-        "position": 521,
+        "position": 520,
         "name": "rash",
         "legacy": false
     },
     {
-        "position": 522,
+        "position": 521,
         "name": "xuser morelike luser",
         "legacy": false
     },
     {
-        "position": 523,
+        "position": 522,
         "name": "s3nt1m3nt",
+        "legacy": false
+    },
+    {
+        "position": 524,
+        "name": "removed submission",
         "legacy": false
     },
     {
