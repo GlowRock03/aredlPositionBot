@@ -2580,87 +2580,87 @@
         "legacy": false
     },
     {
-        "position": 517,
-        "name": "athanatos",
-        "legacy": false
-    },
-    {
-        "position": 518,
-        "name": "shock breaker",
-        "legacy": false
-    },
-    {
-        "position": 519,
-        "name": "loose screws",
-        "legacy": false
-    },
-    {
-        "position": 520,
-        "name": "microsoft drivethru",
-        "legacy": false
-    },
-    {
-        "position": 521,
-        "name": "gentlemens clique (solo)",
-        "legacy": false
-    },
-    {
-        "position": 522,
-        "name": "new record",
-        "legacy": false
-    },
-    {
-        "position": 523,
-        "name": "wild rose",
-        "legacy": false
-    },
-    {
-        "position": 524,
-        "name": "infernal abyss",
-        "legacy": false
-    },
-    {
-        "position": 525,
-        "name": "fabricated thoughts",
-        "legacy": false
-    },
-    {
-        "position": 526,
-        "name": "reset your mind",
-        "legacy": false
-    },
-    {
-        "position": 527,
-        "name": "curie",
-        "legacy": false
-    },
-    {
-        "position": 528,
-        "name": "eleos",
-        "legacy": false
-    },
-    {
-        "position": 529,
-        "name": "rash",
-        "legacy": false
-    },
-    {
-        "position": 530,
-        "name": "xuser morelike luser",
-        "legacy": false
-    },
-    {
-        "position": 531,
+        "position": 516,
         "name": "s3nt1m3nt",
         "legacy": false
     },
     {
-        "position": 533,
+        "position": 518,
+        "name": "athanatos",
+        "legacy": false
+    },
+    {
+        "position": 519,
+        "name": "shock breaker",
+        "legacy": false
+    },
+    {
+        "position": 520,
+        "name": "loose screws",
+        "legacy": false
+    },
+    {
+        "position": 521,
+        "name": "microsoft drivethru",
+        "legacy": false
+    },
+    {
+        "position": 522,
+        "name": "gentlemens clique (solo)",
+        "legacy": false
+    },
+    {
+        "position": 523,
+        "name": "new record",
+        "legacy": false
+    },
+    {
+        "position": 524,
+        "name": "wild rose",
+        "legacy": false
+    },
+    {
+        "position": 525,
+        "name": "infernal abyss",
+        "legacy": false
+    },
+    {
+        "position": 526,
+        "name": "fabricated thoughts",
+        "legacy": false
+    },
+    {
+        "position": 527,
+        "name": "reset your mind",
+        "legacy": false
+    },
+    {
+        "position": 528,
+        "name": "curie",
+        "legacy": false
+    },
+    {
+        "position": 529,
+        "name": "eleos",
+        "legacy": false
+    },
+    {
+        "position": 530,
+        "name": "rash",
+        "legacy": false
+    },
+    {
+        "position": 531,
+        "name": "xuser morelike luser",
+        "legacy": false
+    },
+    {
+        "position": 534,
         "name": "removed submission",
         "legacy": false
     },
     {
-        "position": 533,
+        "position": 534,
         "name": "ithacropolis",
         "legacy": false
     },
