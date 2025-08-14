@@ -726,11 +726,6 @@
     },
     {
         "position": 146,
-        "name": "farbidi theory",
-        "legacy": false
-    },
-    {
-        "position": 146,
         "name": "the art of the blade",
         "legacy": false
     },
@@ -745,8 +740,13 @@
         "legacy": false
     },
     {
-        "position": 150,
+        "position": 149,
         "name": "the rupture",
+        "legacy": false
+    },
+    {
+        "position": 151,
+        "name": "farbidi theory",
         "legacy": false
     },
     {
@@ -2045,11 +2045,6 @@
         "legacy": false
     },
     {
-        "position": 410,
-        "name": "misfire",
-        "legacy": false
-    },
-    {
         "position": 411,
         "name": "insane techniques",
         "legacy": false
@@ -2070,88 +2065,93 @@
         "legacy": false
     },
     {
-        "position": 415,
+        "position": 414,
         "name": "bbbbbbbbbbbbbbbbbbbb",
         "legacy": false
     },
     {
-        "position": 416,
+        "position": 415,
         "name": "neurostasis",
         "legacy": false
     },
     {
-        "position": 417,
+        "position": 416,
         "name": "funnyname funnygame",
         "legacy": false
     },
     {
-        "position": 418,
+        "position": 417,
         "name": "ethereal artifice",
         "legacy": false
     },
     {
-        "position": 419,
+        "position": 418,
         "name": "glowy",
         "legacy": false
     },
     {
-        "position": 420,
+        "position": 419,
         "name": "quaoar (flosia)",
         "legacy": false
     },
     {
-        "position": 421,
+        "position": 420,
         "name": "flyway",
         "legacy": false
     },
     {
-        "position": 422,
+        "position": 421,
         "name": "disaster dive",
         "legacy": false
     },
     {
-        "position": 423,
+        "position": 422,
         "name": "diamond disco",
         "legacy": false
     },
     {
-        "position": 424,
+        "position": 423,
         "name": "desolate",
         "legacy": false
     },
     {
-        "position": 425,
+        "position": 424,
         "name": "sector 19",
         "legacy": false
     },
     {
-        "position": 426,
+        "position": 425,
         "name": "linugi",
         "legacy": false
     },
     {
         "name": "redeemer",
-        "position": 427,
+        "position": 426,
         "legacy": false
     },
     {
-        "position": 428,
+        "position": 427,
         "name": "astral divinity",
         "legacy": false
     },
     {
-        "position": 429,
+        "position": 428,
         "name": "static ignition",
         "legacy": false
     },
     {
-        "position": 430,
+        "position": 429,
         "name": "la cueva",
         "legacy": false
     },
     {
-        "position": 431,
+        "position": 430,
         "name": "rate demon",
+        "legacy": false
+    },
+    {
+        "position": 432,
+        "name": "misfire",
         "legacy": false
     },
     {
