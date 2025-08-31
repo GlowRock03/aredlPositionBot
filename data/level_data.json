@@ -1005,22 +1005,22 @@
         "legacy": false
     },
     {
-        "position": 201,
-        "name": "hardry",
-        "legacy": false
-    },
-    {
-        "position": 202,
-        "name": "dump",
-        "legacy": false
-    },
-    {
-        "position": 203,
+        "position": 200,
         "name": "visible ray",
         "legacy": false
     },
     {
-        "position": 204,
+        "position": 202,
+        "name": "hardry",
+        "legacy": false
+    },
+    {
+        "position": 203,
+        "name": "dump",
+        "legacy": false
+    },
+    {
+        "position": 205,
         "name": "szyslak",
         "legacy": false
     },
