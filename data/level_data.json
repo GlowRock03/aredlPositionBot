@@ -215,7 +215,7 @@
         "legacy": false
     },
     {
-        "position": 44,
+        "position": 43,
         "name": "collapse (nexel)",
         "legacy": false
     },
@@ -670,38 +670,38 @@
         "legacy": false
     },
     {
-        "position": 135,
-        "name": "launchpad labyrinth",
-        "legacy": false
-    },
-    {
-        "position": 136,
-        "name": "shardscapes",
-        "legacy": false
-    },
-    {
-        "position": 138,
-        "name": "superhatemeworld",
-        "legacy": false
-    },
-    {
-        "position": 138,
-        "name": "amalgam",
-        "legacy": false
-    },
-    {
-        "position": 139,
-        "name": "indivine",
-        "legacy": false
-    },
-    {
-        "position": 140,
+        "position": 134,
         "name": "ruthless",
         "legacy": false
     },
     {
+        "position": 136,
+        "name": "launchpad labyrinth",
+        "legacy": false
+    },
+    {
+        "position": 137,
+        "name": "shardscapes",
+        "legacy": false
+    },
+    {
+        "position": 139,
+        "name": "superhatemeworld",
+        "legacy": false
+    },
+    {
+        "position": 139,
+        "name": "amalgam",
+        "legacy": false
+    },
+    {
+        "position": 140,
+        "name": "indivine",
+        "legacy": false
+    },
+    {
         "name": "tenkai (solo)",
-        "position": 141,
+        "position": 142,
         "legacy": false
     },
     {
