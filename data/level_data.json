@@ -1011,11 +1011,6 @@
     },
     {
         "position": 202,
-        "name": "kowareta",
-        "legacy": false
-    },
-    {
-        "position": 202,
         "name": "the wiener",
         "legacy": false
     },
@@ -1025,13 +1020,18 @@
         "legacy": false
     },
     {
-        "position": 205,
+        "position": 206,
         "name": "hardry",
         "legacy": false
     },
     {
         "position": 206,
         "name": "dump",
+        "legacy": false
+    },
+    {
+        "position": 207,
+        "name": "kowareta",
         "legacy": false
     },
     {
