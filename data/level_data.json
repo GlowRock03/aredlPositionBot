@@ -1960,16 +1960,6 @@
         "legacy": false
     },
     {
-        "position": 393,
-        "name": "power grid",
-        "legacy": false
-    },
-    {
-        "position": 394,
-        "name": "turn the lights off",
-        "legacy": false
-    },
-    {
         "position": 395,
         "name": "stereo extremeness",
         "legacy": false
@@ -1982,6 +1972,16 @@
     {
         "position": 397,
         "name": "the hell field",
+        "legacy": false
+    },
+    {
+        "position": 398,
+        "name": "turn the lights off",
+        "legacy": false
+    },
+    {
+        "position": 399,
+        "name": "power grid",
         "legacy": false
     },
     {
