@@ -446,17 +446,17 @@
     },
     {
         "position": 90,
-        "name": "zodiac",
-        "legacy": false
-    },
-    {
-        "position": 91,
         "name": "esfera",
         "legacy": false
     },
     {
-        "position": 92,
+        "position": 91,
         "name": "axinie",
+        "legacy": false
+    },
+    {
+        "position": 93,
+        "name": "zodiac",
         "legacy": false
     },
     {
@@ -1385,53 +1385,53 @@
         "legacy": false
     },
     {
-        "position": 278,
-        "name": "the fog",
+        "position": 277,
+        "name": "lumina",
         "legacy": false
     },
     {
         "position": 279,
-        "name": "cosmic ray",
+        "name": "the fog",
         "legacy": false
     },
     {
         "position": 280,
-        "name": "yatagarasu",
+        "name": "cosmic ray",
         "legacy": false
     },
     {
         "position": 281,
-        "name": "goner",
+        "name": "yatagarasu",
         "legacy": false
     },
     {
         "position": 282,
-        "name": "rage",
+        "name": "goner",
         "legacy": false
     },
     {
         "position": 283,
-        "name": "kuzureta",
+        "name": "rage",
         "legacy": false
     },
     {
         "position": 284,
-        "name": "x0",
+        "name": "kuzureta",
         "legacy": false
     },
     {
         "position": 285,
-        "name": "edge of the blade",
+        "name": "x0",
         "legacy": false
     },
     {
         "position": 286,
-        "name": "silentium clavas",
+        "name": "edge of the blade",
         "legacy": false
     },
     {
         "position": 287,
-        "name": "lumina",
+        "name": "silentium clavas",
         "legacy": false
     },
     {
@@ -1931,27 +1931,27 @@
     },
     {
         "position": 387,
-        "name": "vaenstep",
-        "legacy": false
-    },
-    {
-        "position": 388,
         "name": "solarion",
         "legacy": false
     },
     {
-        "position": 389,
+        "position": 388,
         "name": "soulbound",
         "legacy": false
     },
     {
-        "position": 390,
+        "position": 389,
         "name": "killbot",
         "legacy": false
     },
     {
-        "position": 391,
+        "position": 390,
         "name": "demonicat",
+        "legacy": false
+    },
+    {
+        "position": 392,
+        "name": "vaenstep",
         "legacy": false
     },
     {
