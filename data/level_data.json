@@ -185,23 +185,23 @@
         "legacy": false
     },
     {
-        "position": 38,
-        "name": "apocalyptic trilogy",
+        "position": 37,
+        "name": "edge of destiny",
         "legacy": false
     },
     {
         "position": 39,
-        "name": "limbo",
+        "name": "apocalyptic trilogy",
         "legacy": false
     },
     {
         "position": 40,
-        "name": "gaggatrondra",
+        "name": "limbo",
         "legacy": false
     },
     {
         "position": 41,
-        "name": "edge of destiny",
+        "name": "gaggatrondra",
         "legacy": false
     },
     {
@@ -2386,107 +2386,107 @@
     },
     {
         "position": 478,
-        "name": "auditory breaker",
-        "legacy": false
-    },
-    {
-        "position": 479,
         "name": "ziroikabi",
         "legacy": false
     },
     {
-        "position": 480,
+        "position": 479,
         "name": "pandemonium (yakimaru)",
         "legacy": false
     },
     {
-        "position": 481,
+        "position": 480,
         "name": "furious flames",
         "legacy": false
     },
     {
-        "position": 482,
+        "position": 481,
         "name": "hyperchaos",
         "legacy": false
     },
     {
-        "position": 483,
+        "position": 482,
         "name": "silent hills",
         "legacy": false
     },
     {
-        "position": 484,
+        "position": 483,
         "name": "rosedynamix",
         "legacy": false
     },
     {
-        "position": 485,
+        "position": 484,
         "name": "the sulphur sea",
         "legacy": false
     },
     {
-        "position": 486,
+        "position": 485,
         "name": "hatred",
         "legacy": false
     },
     {
-        "position": 487,
+        "position": 486,
         "name": "breakout redux",
         "legacy": false
     },
     {
-        "position": 488,
+        "position": 487,
         "name": "great fury of heaven",
         "legacy": false
     },
     {
-        "position": 489,
+        "position": 488,
         "name": "galactic shift",
         "legacy": false
     },
     {
-        "position": 490,
+        "position": 489,
         "name": "ultra violet",
         "legacy": false
     },
     {
-        "position": 491,
+        "position": 490,
         "name": "memories",
         "legacy": false
     },
     {
-        "position": 492,
+        "position": 491,
         "name": "fractured dreams",
         "legacy": false
     },
     {
-        "position": 493,
+        "position": 492,
         "name": "io",
         "legacy": false
     },
     {
-        "position": 494,
+        "position": 493,
         "name": "miss you",
         "legacy": false
     },
     {
-        "position": 495,
+        "position": 494,
         "name": "my worst demon level",
         "legacy": false
     },
     {
-        "position": 496,
+        "position": 495,
         "name": "berserk",
         "legacy": false
     },
     {
-        "position": 497,
+        "position": 496,
         "name": "cadrega mode",
         "legacy": false
     },
     {
-        "position": 498,
+        "position": 497,
         "name": "gateway",
+        "legacy": false
+    },
+    {
+        "position": 499,
+        "name": "auditory breaker",
         "legacy": false
     },
     {
@@ -3135,238 +3135,238 @@
         "legacy": false
     },
     {
-        "position": 628,
-        "name": "atmosphere",
+        "position": 627,
+        "name": "the hell bird",
         "legacy": false
     },
     {
         "position": 629,
-        "name": "supercharged",
+        "name": "atmosphere",
         "legacy": false
     },
     {
         "position": 630,
-        "name": "opsm1",
+        "name": "supercharged",
         "legacy": false
     },
     {
         "position": 631,
-        "name": "molten mercury",
+        "name": "opsm1",
         "legacy": false
     },
     {
         "position": 632,
-        "name": "aura (ka1sa)",
+        "name": "molten mercury",
         "legacy": false
     },
     {
         "position": 633,
-        "name": "le midd mapperoonies",
+        "name": "aura (ka1sa)",
         "legacy": false
     },
     {
         "position": 634,
-        "name": "monstercat",
+        "name": "le midd mapperoonies",
         "legacy": false
     },
     {
         "position": 635,
-        "name": "biohazard",
+        "name": "monstercat",
         "legacy": false
     },
     {
         "position": 636,
-        "name": "astrophobia",
+        "name": "biohazard",
         "legacy": false
     },
     {
         "position": 637,
-        "name": "omorfia",
+        "name": "astrophobia",
         "legacy": false
     },
     {
         "position": 638,
-        "name": "game over",
+        "name": "omorfia",
         "legacy": false
     },
     {
         "position": 639,
-        "name": "project nexus",
+        "name": "game over",
         "legacy": false
     },
     {
         "position": 640,
-        "name": "deogen",
+        "name": "project nexus",
         "legacy": false
     },
     {
         "position": 641,
-        "name": "gravity",
+        "name": "deogen",
         "legacy": false
     },
     {
         "position": 642,
-        "name": "barbaros finale",
+        "name": "gravity",
         "legacy": false
     },
     {
         "position": 643,
-        "name": "gewerbix",
+        "name": "barbaros finale",
         "legacy": false
     },
     {
         "position": 644,
-        "name": "the j",
+        "name": "gewerbix",
         "legacy": false
     },
     {
         "position": 645,
-        "name": "glacial torrent",
+        "name": "the j",
         "legacy": false
     },
     {
         "position": 646,
-        "name": "motor mogok",
+        "name": "glacial torrent",
         "legacy": false
     },
     {
         "position": 647,
-        "name": "up and down",
+        "name": "motor mogok",
         "legacy": false
     },
     {
         "position": 648,
-        "name": "begin",
+        "name": "up and down",
         "legacy": false
     },
     {
         "position": 649,
-        "name": "water demon",
+        "name": "begin",
         "legacy": false
     },
     {
         "position": 650,
-        "name": "sysmique locked",
+        "name": "water demon",
         "legacy": false
     },
     {
         "position": 651,
-        "name": "inside",
+        "name": "sysmique locked",
         "legacy": false
     },
     {
         "position": 652,
-        "name": "under lavaland",
+        "name": "inside",
         "legacy": false
     },
     {
         "position": 653,
-        "name": "incandescent",
+        "name": "under lavaland",
         "legacy": false
     },
     {
         "position": 654,
-        "name": "motorbreath",
+        "name": "incandescent",
         "legacy": false
     },
     {
         "position": 655,
-        "name": "azurite (royen)",
+        "name": "motorbreath",
         "legacy": false
     },
     {
         "position": 656,
-        "name": "maddening",
+        "name": "azurite (royen)",
         "legacy": false
     },
     {
         "position": 657,
-        "name": "ecstasy (sleygd)",
+        "name": "maddening",
         "legacy": false
     },
     {
         "position": 658,
-        "name": "helix (lggd)",
+        "name": "ecstasy (sleygd)",
         "legacy": false
     },
     {
         "position": 659,
-        "name": "ruler of everything",
+        "name": "helix (lggd)",
         "legacy": false
     },
     {
         "position": 660,
-        "name": "tempest tornado",
+        "name": "ruler of everything",
         "legacy": false
     },
     {
         "position": 661,
-        "name": "bloodbath",
+        "name": "tempest tornado",
         "legacy": false
     },
     {
         "position": 662,
-        "name": "helix (leopus)",
+        "name": "bloodbath",
         "legacy": false
     },
     {
         "position": 663,
-        "name": "eon",
+        "name": "helix (leopus)",
         "legacy": false
     },
     {
         "position": 664,
-        "name": "idols",
+        "name": "eon",
         "legacy": false
     },
     {
         "position": 665,
-        "name": "siniristi",
+        "name": "idols",
         "legacy": false
     },
     {
         "position": 666,
-        "name": "moment",
+        "name": "siniristi",
         "legacy": false
     },
     {
         "position": 667,
-        "name": "quaoar (viprin)",
+        "name": "moment",
         "legacy": false
     },
     {
         "position": 668,
-        "name": "apex",
+        "name": "quaoar (viprin)",
         "legacy": false
     },
     {
         "position": 669,
-        "name": "oopz",
+        "name": "apex",
         "legacy": false
     },
     {
         "position": 670,
-        "name": "azure fiesta",
+        "name": "oopz",
         "legacy": false
     },
     {
         "position": 671,
-        "name": "atmarbl",
+        "name": "azure fiesta",
         "legacy": false
     },
     {
         "position": 672,
-        "name": "the hell factory",
+        "name": "atmarbl",
         "legacy": false
     },
     {
         "position": 673,
-        "name": "remember",
+        "name": "the hell factory",
         "legacy": false
     },
     {
         "position": 674,
-        "name": "the hell bird",
+        "name": "remember",
         "legacy": false
     },
     {
