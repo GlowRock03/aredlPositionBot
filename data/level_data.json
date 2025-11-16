@@ -1715,28 +1715,28 @@
         "legacy": false
     },
     {
-        "position": 345,
-        "name": "twisted titanium",
+        "position": 344,
+        "name": "catalyze",
         "legacy": false
     },
     {
         "position": 346,
-        "name": "framework",
+        "name": "twisted titanium",
         "legacy": false
     },
     {
         "position": 347,
+        "name": "framework",
+        "legacy": false
+    },
+    {
+        "position": 348,
         "name": "devil vortex",
         "legacy": false
     },
     {
         "position": 348,
         "name": "dole damos",
-        "legacy": false
-    },
-    {
-        "position": 349,
-        "name": "catalyze",
         "legacy": false
     },
     {
@@ -4810,68 +4810,68 @@
         "legacy": false
     },
     {
-        "position": 964,
-        "name": "the man with no eyes",
+        "position": 963,
+        "name": "quadratic function",
         "legacy": false
     },
     {
         "position": 965,
-        "name": "the ultimate phase",
+        "name": "the man with no eyes",
         "legacy": false
     },
     {
         "position": 966,
-        "name": "the rainbow switch",
+        "name": "the ultimate phase",
         "legacy": false
     },
     {
         "position": 967,
-        "name": "rtx on",
+        "name": "the rainbow switch",
         "legacy": false
     },
     {
         "position": 968,
-        "name": "smash",
+        "name": "rtx on",
         "legacy": false
     },
     {
         "position": 969,
-        "name": "stand in the snow",
+        "name": "smash",
         "legacy": false
     },
     {
         "position": 970,
-        "name": "squelch",
+        "name": "stand in the snow",
         "legacy": false
     },
     {
         "position": 971,
-        "name": "cyberstorm",
+        "name": "squelch",
         "legacy": false
     },
     {
         "position": 972,
-        "name": "vanish",
+        "name": "cyberstorm",
         "legacy": false
     },
     {
         "position": 973,
-        "name": "pulsation",
+        "name": "vanish",
         "legacy": false
     },
     {
         "position": 974,
+        "name": "pulsation",
+        "legacy": false
+    },
+    {
+        "position": 975,
         "name": "semicolon 3",
         "legacy": false
     },
     {
         "position": 975,
         "name": "cloudscape",
-        "legacy": false
-    },
-    {
-        "position": 976,
-        "name": "quadratic function",
         "legacy": false
     },
     {
