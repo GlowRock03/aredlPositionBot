@@ -3625,12 +3625,12 @@
         "legacy": false
     },
     {
-        "position": 726,
+        "position": 725,
         "name": "electric forest",
         "legacy": false
     },
     {
-        "position": 727,
+        "position": 726,
         "name": "float",
         "legacy": false
     },
@@ -6250,212 +6250,217 @@
         "legacy": false
     },
     {
+        "name": "tran la luot",
         "position": 1252,
-        "name": "white album",
         "legacy": false
     },
     {
         "position": 1253,
-        "name": "virtual collapse",
+        "name": "white album",
         "legacy": false
     },
     {
         "position": 1254,
-        "name": "twitch denan",
+        "name": "virtual collapse",
         "legacy": false
     },
     {
         "position": 1255,
-        "name": "jumping demons",
+        "name": "twitch denan",
         "legacy": false
     },
     {
         "position": 1256,
-        "name": "horros (2p)",
+        "name": "jumping demons",
         "legacy": false
     },
     {
         "position": 1257,
-        "name": "acu",
+        "name": "horros (2p)",
         "legacy": false
     },
     {
         "position": 1258,
-        "name": "the super hotdog",
+        "name": "acu",
         "legacy": false
     },
     {
         "position": 1259,
-        "name": "tantrum",
+        "name": "the super hotdog",
         "legacy": false
     },
     {
         "position": 1260,
-        "name": "sigsegv",
+        "name": "tantrum",
         "legacy": false
     },
     {
         "position": 1261,
-        "name": "through the decay",
+        "name": "sigsegv",
         "legacy": false
     },
     {
         "position": 1262,
-        "name": "monitor",
+        "name": "through the decay",
         "legacy": false
     },
     {
         "position": 1263,
-        "name": "precipitance",
+        "name": "monitor",
         "legacy": false
     },
     {
         "position": 1264,
-        "name": "annihilated",
+        "name": "precipitance",
         "legacy": false
     },
     {
         "position": 1265,
-        "name": "red world",
+        "name": "annihilated",
         "legacy": false
     },
     {
         "position": 1266,
+        "name": "red world",
+        "legacy": false
+    },
+    {
+        "position": 1267,
         "name": "teehee colon three",
         "legacy": true
     },
     {
-        "position": 1268,
+        "position": 1269,
         "name": "dichotomy (2p)",
         "legacy": true
     },
     {
-        "position": 1269,
+        "position": 1270,
         "name": "dichotomy (solo)",
         "legacy": true
     },
     {
-        "position": 1270,
+        "position": 1271,
         "name": "aurora (hasuopf)",
         "legacy": true
     },
     {
-        "position": 1271,
+        "position": 1272,
         "name": "magnum opus",
         "legacy": true
     },
     {
-        "position": 1272,
+        "position": 1273,
         "name": "cja",
         "legacy": true
     },
     {
-        "position": 1273,
+        "position": 1274,
         "name": "delirium tremens",
         "legacy": true
     },
     {
-        "position": 1274,
+        "position": 1275,
         "name": "high heat",
         "legacy": true
     },
     {
-        "position": 1275,
+        "position": 1276,
         "name": "copilot (solo)",
         "legacy": true
     },
     {
-        "position": 1276,
+        "position": 1277,
         "name": "copilot (2p)",
         "legacy": true
     },
     {
-        "position": 1277,
+        "position": 1278,
         "name": "interference",
         "legacy": true
     },
     {
-        "position": 1278,
+        "position": 1279,
         "name": "eraser",
         "legacy": true
     },
     {
-        "position": 1279,
+        "position": 1280,
         "name": "mind machine",
         "legacy": true
     },
     {
-        "position": 1280,
+        "position": 1281,
         "name": "triangular",
         "legacy": true
     },
     {
-        "position": 1281,
+        "position": 1282,
         "name": "virtual stigmata",
         "legacy": true
     },
     {
-        "position": 1282,
+        "position": 1283,
         "name": "pictured as perfect",
         "legacy": true
     },
     {
-        "position": 1283,
+        "position": 1284,
         "name": "gunslinga corridor",
         "legacy": true
     },
     {
-        "position": 1284,
+        "position": 1285,
         "name": "swarm",
         "legacy": true
     },
     {
-        "position": 1285,
+        "position": 1286,
         "name": "dismay (novaach)",
         "legacy": true
     },
     {
-        "position": 1286,
+        "position": 1287,
         "name": "iwannakillthekamilia",
         "legacy": true
     },
     {
-        "position": 1287,
+        "position": 1288,
         "name": "ice carbon diablo x",
         "legacy": true
     },
     {
-        "position": 1288,
+        "position": 1289,
         "name": "frizzantino vibes",
         "legacy": true
     },
     {
-        "position": 1289,
+        "position": 1290,
         "name": "hate war",
         "legacy": true
     },
     {
-        "position": 1290,
+        "position": 1291,
         "name": "buff this",
         "legacy": true
     },
     {
-        "position": 1291,
+        "position": 1292,
         "name": "ketamine",
         "legacy": true
     },
     {
-        "position": 1292,
+        "position": 1293,
         "name": "challunga finale",
         "legacy": true
     },
     {
-        "position": 1293,
+        "position": 1294,
         "name": "foggy morning",
         "legacy": true
     },
     {
-        "position": 1294,
+        "position": 1295,
         "name": "thanatophobia",
         "legacy": true
     }
