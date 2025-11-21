@@ -1976,32 +1976,32 @@
     },
     {
         "position": 396,
-        "name": "delta interface",
-        "legacy": false
-    },
-    {
-        "position": 397,
         "name": "solarion",
         "legacy": false
     },
     {
-        "position": 398,
+        "position": 397,
         "name": "soulbound",
         "legacy": false
     },
     {
-        "position": 399,
+        "position": 398,
         "name": "killbot",
         "legacy": false
     },
     {
-        "position": 400,
+        "position": 399,
         "name": "demonicat",
         "legacy": false
     },
     {
-        "position": 401,
+        "position": 400,
         "name": "netzwerk",
+        "legacy": false
+    },
+    {
+        "position": 402,
+        "name": "delta interface",
         "legacy": false
     },
     {
