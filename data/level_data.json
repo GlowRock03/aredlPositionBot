@@ -1366,67 +1366,67 @@
     },
     {
         "position": 274,
-        "name": "adomania",
-        "legacy": false
-    },
-    {
-        "position": 275,
         "name": "sisusonic",
         "legacy": false
     },
     {
-        "position": 276,
+        "position": 275,
         "name": "beyond hell",
         "legacy": false
     },
     {
-        "position": 277,
+        "position": 276,
         "name": "controller",
         "legacy": false
     },
     {
-        "position": 278,
+        "position": 277,
         "name": "omega",
         "legacy": false
     },
     {
-        "position": 279,
+        "position": 278,
         "name": "akira",
         "legacy": false
     },
     {
-        "position": 280,
+        "position": 279,
         "name": "gamma",
         "legacy": false
     },
     {
-        "position": 281,
+        "position": 280,
         "name": "golden club",
         "legacy": false
     },
     {
-        "position": 282,
+        "position": 281,
         "name": "dance of the violins",
         "legacy": false
     },
     {
-        "position": 283,
+        "position": 282,
         "name": "network (vandervals)",
         "legacy": false
     },
     {
-        "position": 284,
+        "position": 283,
         "name": "molten gear",
         "legacy": false
     },
     {
-        "position": 285,
+        "position": 284,
         "name": "spacial rend",
         "legacy": false
     },
     {
-        "position": 286,
+        "position": 285,
         "name": "hyper paracosm",
+        "legacy": false
+    },
+    {
+        "position": 287,
+        "name": "adomania",
         "legacy": false
     },
     {
