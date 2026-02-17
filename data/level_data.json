@@ -396,12 +396,12 @@
     },
     {
         "position": 80,
-        "name": "oblivion",
+        "name": "terminal rampancy",
         "legacy": false
     },
     {
-        "position": 81,
-        "name": "terminal rampancy",
+        "position": 82,
+        "name": "oblivion",
         "legacy": false
     },
     {
@@ -1085,68 +1085,68 @@
         "legacy": false
     },
     {
-        "position": 218,
-        "name": "pagoda",
+        "position": 217,
+        "name": "exosphere",
         "legacy": false
     },
     {
         "position": 219,
-        "name": "knights of thunder",
+        "name": "pagoda",
         "legacy": false
     },
     {
         "position": 220,
-        "name": "fog",
+        "name": "knights of thunder",
         "legacy": false
     },
     {
         "position": 221,
-        "name": "atomic cannon",
+        "name": "fog",
         "legacy": false
     },
     {
         "position": 222,
-        "name": "cicatrize",
+        "name": "atomic cannon",
         "legacy": false
     },
     {
         "position": 223,
-        "name": "dust bowl",
+        "name": "cicatrize",
         "legacy": false
     },
     {
         "position": 224,
-        "name": "ploink",
+        "name": "dust bowl",
         "legacy": false
     },
     {
         "position": 225,
-        "name": "fragmented",
+        "name": "ploink",
         "legacy": false
     },
     {
         "position": 226,
-        "name": "gustavo fring",
+        "name": "fragmented",
         "legacy": false
     },
     {
         "position": 227,
-        "name": "friday",
+        "name": "gustavo fring",
         "legacy": false
     },
     {
         "position": 228,
-        "name": "ouroboros",
+        "name": "friday",
         "legacy": false
     },
     {
         "position": 229,
-        "name": "connect",
+        "name": "ouroboros",
         "legacy": false
     },
     {
         "position": 230,
-        "name": "exosphere",
+        "name": "connect",
         "legacy": false
     },
     {
