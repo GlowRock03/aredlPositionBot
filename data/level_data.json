@@ -90,13 +90,13 @@
         "legacy": false
     },
     {
-        "position": 20,
-        "name": "tunnel of despair",
+        "position": 19,
+        "name": "defeated circles",
         "legacy": false
     },
     {
-        "position": 21,
-        "name": "defeated circles",
+        "position": 20,
+        "name": "tunnel of despair",
         "legacy": false
     },
     {
@@ -705,12 +705,17 @@
         "legacy": false
     },
     {
-        "position": 145,
-        "name": "conclusion",
+        "position": 144,
+        "name": "trotil",
         "legacy": false
     },
     {
         "position": 146,
+        "name": "conclusion",
+        "legacy": false
+    },
+    {
+        "position": 147,
         "name": "we are not the same (solo)",
         "legacy": false
     },
@@ -727,11 +732,6 @@
     {
         "position": 149,
         "name": "calculator core",
-        "legacy": false
-    },
-    {
-        "position": 150,
-        "name": "trotil",
         "legacy": false
     },
     {
