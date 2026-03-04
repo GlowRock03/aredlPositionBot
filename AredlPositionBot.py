@@ -84,25 +84,19 @@ def save_user_configs(user_configs):
 
 def queue_changes(message):
 
-    # Clean the message content and prepare for processing
     raw_content = message.content.replace("*", "").lower()
-    
-    # Split by newlines or dashes, then strip leading dashes and spaces from each entry
     entries = [entry.lstrip("- ").strip() for entry in raw_content.splitlines()]
 
     for content in entries:
-        # Clean up formatting and prepare content for matching
         content = re.sub(r"\*\*(.+?)\*\*", r"\1", content)
 
-        # Regex patterns for each type of change
         move_pattern = r"(.+?) has been (raised|lowered) from #(\d+) to #(\d+)"
         place_pattern = r"(.+?) has been placed at #(\d+)"
         swap_pattern = r"(.+?) and (.+?) have been swapped, with (.+?) (now|sitting|now sitting) (above|below) at #(\d+)"
 
-        # Enqueue each type of match
         for match in re.finditer(move_pattern, content):
             level_name = match.group(1).strip()
-            move_type = match.group(2)  # "raised" or "lowered"
+            move_type = match.group(2)
             old_position = match.group(3).strip()
             new_position = match.group(4).strip()
             queue.append(("move", level_name, move_type, old_position, new_position))
@@ -115,18 +109,16 @@ def queue_changes(message):
         for match in re.finditer(swap_pattern, content):
             level1 = match.group(1).strip()
             level2 = match.group(2).strip()
-            marking_level = match.group(3).strip()  # The level taking the specific position
-            position_direction = match.group(5).strip()  # "above" or "below"
+            marking_level = match.group(3).strip()
+            position_direction = match.group(5).strip()
             new_position = int(match.group(6).strip())
             queue.append(("swap", level1, level2, marking_level, position_direction, new_position))
 
 def process_queue():
     
-    # Load the existing data
     with open(LEVEL_DATA_FILE, "r") as f:
         level_data = json.load(f)
 
-    # Convert list to a dictionary for easier access
     level_dict = {level["name"]: level for level in level_data}
 
     for item in queue:
@@ -139,7 +131,6 @@ def process_queue():
             if level_name in level_dict:
                 level_dict[level_name]["position"] = new_position
 
-            # Shift positions for other levels accordingly
             for level in level_dict.values():
                 pos = level["position"]
                 if new_position < pos < old_position:
@@ -156,7 +147,6 @@ def process_queue():
             else:
                 level_dict[level_name]["position"] = position
 
-            # Shift other levels down if needed
             for level in level_dict.values():
                 if level["position"] >= position and level["name"] != level_name:
                     level["position"] += 1
@@ -174,56 +164,48 @@ def process_queue():
                 level_dict[level1]["position"] = pos1
                 level_dict[level2]["position"] = pos2
 
-    # Convert back to sorted list
     sorted_levels = sorted(level_dict.values(), key=lambda x: x["position"])
 
-    # Save back to JSON
     with open(LEVEL_DATA_FILE, "w") as f:
         json.dump(sorted_levels, f, indent=4)
 
     print("Level data updated successfully!")
 
 def update_google_sheets():
-    # Load user configs
     with open(USER_DATA_FILE, "r") as f:
         user_configs = json.load(f)
 
-    # Load level data
     with open(LEVEL_DATA_FILE, "r") as f:
         level_data = json.load(f)
 
-    # Convert level data into a dictionary for quick lookup
     level_positions = {level["name"]: {"position": level["position"], "legacy": level.get("legacy", False)} for level in level_data}
 
-    # Iterate through each user's configuration
     for user_id, config in user_configs.items():
         try:
             sheet_name = config["sheetName"]
-            page_name = config["sheetPage"]  # Now using the name of the sheet instead of an index
+            page_name = config["sheetPage"]
             level_name_column = config["levelNameColumn"]
             position_column = config["positionColumn"]
 
-            # Open the Google Sheet and get the specific sheet by name
             sheet = gc.open(sheet_name).worksheet(page_name)
 
-            # Fetch all level names from the configured column
-            level_names = sheet.col_values(ord(level_name_column) - ord('A') + 1)  # Convert column letter to index
+            cells = sheet.get(
+                f"{level_name_column}1:{level_name_column}",
+                value_render_option="FORMATTED_VALUE"
+            )
+            level_names = [row[0] if row else "" for row in cells]
 
-            # Prepare batch update data
             updates = []
-            for i, level_name in enumerate(level_names, start=1):  # Google Sheets row index starts at 1
-                level_name = level_name.lower()
+            for i, level_name in enumerate(level_names, start=1):
+                level_name = level_name.strip().lower()
                 if level_name in level_positions:
                     position_data = level_positions[level_name]
                     new_value = "Legacy" if position_data["legacy"] else position_data["position"]
-                    
-                    # Add to batch update list
                     updates.append({
                         "range": f"{position_column}{i}",
                         "values": [[new_value]]
                     })
 
-            # Execute batch update if there are changes
             if updates:
                 sheet.batch_update(updates)
                 print(f"Updated {len(updates)} cells in batch for user {user_id}")
@@ -233,7 +215,6 @@ def update_google_sheets():
         except Exception as e:
             print(f"Error updating sheet for user {user_id}: {str(e)}")
 
-# Client Events
 @client.event
 async def on_ready():
     print(f"{client.user} has connected to Discord!")
@@ -262,13 +243,10 @@ async def on_ready():
     update_google_sheets()
     print("Google Sheets update complete!")
     
-
-
     await asyncio.sleep(600)
     await client.close()
 
 
-# Command to process user configurations
 @client.event
 async def on_message(message):
     if message.author == client.user:
@@ -280,11 +258,9 @@ async def on_message(message):
             user_id = str(message.author.id)
             user_configs = load_user_configs()
 
-            # Check if the user exists in the config file; if not, add them
             if user_id not in user_configs:
                 user_configs[user_id] = {}
 
-            # Validate the settings and values, and update the config
             if setting == "sheetName":
                 user_configs[user_id]["sheetName"] = value
             elif setting == "sheetPage":
@@ -297,7 +273,6 @@ async def on_message(message):
                 await message.channel.send(f"Invalid setting: {setting}")
                 return
 
-            # Save the updated configurations
             save_user_configs(user_configs)
             await message.channel.send(f"Configuration updated for user {message.author.name}.")
 
@@ -315,5 +290,4 @@ async def on_message(message):
     if message.content.startswith("!help"):
         await message.channel.send(f"All commands:\n!config sheetName <The name of your google sheet>\n!config sheetPage <The name of the sheet you have your aredl positions on>\n!config levelNameColumn <The column of the level names>\n!config positionColumn <The column of the level positions>\n!requirements\n!setup\n!help")
 
-# Run Client
 client.run(DISCORD_TOKEN)
