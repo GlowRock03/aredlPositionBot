@@ -335,43 +335,43 @@
         "legacy": false
     },
     {
-        "position": 68,
-        "name": "sinister silence",
+        "position": 67,
+        "name": "wavterminal",
         "legacy": false
     },
     {
         "position": 69,
-        "name": "cimmerian shade",
+        "name": "sinister silence",
         "legacy": false
     },
     {
         "position": 70,
-        "name": "psychopath",
+        "name": "cimmerian shade",
         "legacy": false
     },
     {
         "position": 71,
-        "name": "arcturus",
+        "name": "psychopath",
         "legacy": false
     },
     {
         "position": 72,
-        "name": "beeline (solo)",
+        "name": "arcturus",
         "legacy": false
     },
     {
         "position": 73,
-        "name": "sonic wave infinity",
+        "name": "beeline (solo)",
         "legacy": false
     },
     {
         "position": 74,
-        "name": "tartarus",
+        "name": "sonic wave infinity",
         "legacy": false
     },
     {
         "position": 75,
-        "name": "wavterminal",
+        "name": "tartarus",
         "legacy": false
     },
     {
@@ -1260,23 +1260,23 @@
         "legacy": false
     },
     {
-        "position": 253,
-        "name": "proton launcher",
+        "position": 252,
+        "name": "death corridor z",
         "legacy": false
     },
     {
         "position": 254,
-        "name": "frozen cave",
+        "name": "proton launcher",
         "legacy": false
     },
     {
         "position": 255,
-        "name": "ego killing",
+        "name": "frozen cave",
         "legacy": false
     },
     {
         "position": 256,
-        "name": "death corridor z",
+        "name": "ego killing",
         "legacy": false
     },
     {
@@ -1670,273 +1670,273 @@
         "legacy": false
     },
     {
-        "position": 335,
-        "name": "silentium clavas",
+        "position": 334,
+        "name": "twisted titanium",
         "legacy": false
     },
     {
         "position": 336,
-        "name": "golden flare",
+        "name": "silentium clavas",
         "legacy": false
     },
     {
         "position": 337,
-        "name": "the hell nutz",
+        "name": "golden flare",
         "legacy": false
     },
     {
         "position": 338,
-        "name": "xo",
+        "name": "the hell nutz",
         "legacy": false
     },
     {
         "position": 339,
-        "name": "controlled chaos",
+        "name": "xo",
         "legacy": false
     },
     {
         "position": 340,
-        "name": "altered ascent",
+        "name": "controlled chaos",
         "legacy": false
     },
     {
         "position": 341,
-        "name": "super probably level",
+        "name": "altered ascent",
         "legacy": false
     },
     {
         "position": 342,
-        "name": "violet illusions",
+        "name": "super probably level",
         "legacy": false
     },
     {
         "position": 343,
-        "name": "molten core",
+        "name": "violet illusions",
         "legacy": false
     },
     {
         "position": 344,
-        "name": "friday vortex",
+        "name": "molten core",
         "legacy": false
     },
     {
         "position": 345,
-        "name": "goner",
+        "name": "friday vortex",
         "legacy": false
     },
     {
         "position": 346,
-        "name": "generic wave",
+        "name": "goner",
         "legacy": false
     },
     {
         "position": 347,
-        "name": "thunderzone",
+        "name": "generic wave",
         "legacy": false
     },
     {
         "position": 348,
-        "name": "titan complex",
+        "name": "thunderzone",
         "legacy": false
     },
     {
         "position": 349,
-        "name": "nunri",
+        "name": "titan complex",
         "legacy": false
     },
     {
         "position": 350,
-        "name": "loochiverse",
+        "name": "nunri",
         "legacy": false
     },
     {
         "position": 351,
-        "name": "buzzkill",
+        "name": "loochiverse",
         "legacy": false
     },
     {
         "position": 352,
-        "name": "atmos",
+        "name": "buzzkill",
         "legacy": false
     },
     {
         "position": 353,
-        "name": "quantum theory",
+        "name": "atmos",
         "legacy": false
     },
     {
         "position": 354,
-        "name": "instinct (itshybrid)",
+        "name": "quantum theory",
         "legacy": false
     },
     {
         "position": 355,
-        "name": "basil",
+        "name": "instinct (itshybrid)",
         "legacy": false
     },
     {
         "position": 356,
-        "name": "maniamatic",
+        "name": "basil",
         "legacy": false
     },
     {
         "position": 357,
-        "name": "sunset sandstorm",
+        "name": "maniamatic",
         "legacy": false
     },
     {
         "position": 358,
-        "name": "in the generator",
+        "name": "sunset sandstorm",
         "legacy": false
     },
     {
         "position": 359,
-        "name": "freedom08",
+        "name": "in the generator",
         "legacy": false
     },
     {
         "position": 360,
-        "name": "erebus (boldstep)",
+        "name": "freedom08",
         "legacy": false
     },
     {
         "position": 361,
-        "name": "delebit oblivio",
+        "name": "erebus (boldstep)",
         "legacy": false
     },
     {
         "position": 362,
-        "name": "echoes of neon",
+        "name": "delebit oblivio",
         "legacy": false
     },
     {
         "position": 363,
-        "name": "trxpping eyebxlls",
+        "name": "echoes of neon",
         "legacy": false
     },
     {
         "position": 364,
-        "name": "the reaper",
+        "name": "trxpping eyebxlls",
         "legacy": false
     },
     {
         "position": 365,
-        "name": "nightshade",
+        "name": "the reaper",
         "legacy": false
     },
     {
         "position": 366,
-        "name": "dark flare",
+        "name": "nightshade",
         "legacy": false
     },
     {
         "position": 367,
-        "name": "luminosity",
+        "name": "dark flare",
         "legacy": false
     },
     {
         "position": 368,
-        "name": "the hell tribute",
+        "name": "luminosity",
         "legacy": false
     },
     {
         "position": 369,
-        "name": "chromatic haze",
+        "name": "the hell tribute",
         "legacy": false
     },
     {
         "position": 370,
-        "name": "ddiamond",
+        "name": "chromatic haze",
         "legacy": false
     },
     {
         "position": 371,
-        "name": "the mainframe",
+        "name": "ddiamond",
         "legacy": false
     },
     {
         "position": 372,
-        "name": "celestial force",
+        "name": "the mainframe",
         "legacy": false
     },
     {
         "position": 373,
-        "name": "timor",
+        "name": "celestial force",
         "legacy": false
     },
     {
         "position": 374,
-        "name": "tapwreck",
+        "name": "timor",
         "legacy": false
     },
     {
         "position": 375,
-        "name": "relentless",
+        "name": "tapwreck",
         "legacy": false
     },
     {
         "position": 376,
-        "name": "wow",
+        "name": "relentless",
         "legacy": false
     },
     {
         "position": 377,
-        "name": "quantum dynamix",
+        "name": "wow",
         "legacy": false
     },
     {
         "position": 378,
-        "name": "the deadlands",
+        "name": "quantum dynamix",
         "legacy": false
     },
     {
         "position": 379,
-        "name": "ascension",
+        "name": "the deadlands",
         "legacy": false
     },
     {
         "position": 380,
-        "name": "glory",
+        "name": "ascension",
         "legacy": false
     },
     {
         "position": 381,
-        "name": "farthest outpost",
+        "name": "glory",
         "legacy": false
     },
     {
         "position": 382,
-        "name": "stygian machinery",
+        "name": "farthest outpost",
         "legacy": false
     },
     {
         "position": 383,
-        "name": "jamboree",
+        "name": "stygian machinery",
         "legacy": false
     },
     {
         "position": 384,
-        "name": "charge",
+        "name": "jamboree",
         "legacy": false
     },
     {
         "position": 385,
-        "name": "come to daddy",
+        "name": "charge",
         "legacy": false
     },
     {
         "position": 386,
-        "name": "lucid chaos",
+        "name": "come to daddy",
         "legacy": false
     },
     {
         "position": 387,
-        "name": "catalyze",
+        "name": "lucid chaos",
         "legacy": false
     },
     {
         "position": 388,
-        "name": "twisted titanium",
+        "name": "catalyze",
         "legacy": false
     },
     {
