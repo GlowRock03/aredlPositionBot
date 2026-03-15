@@ -275,33 +275,33 @@
         "legacy": false
     },
     {
-        "name": "chromacave",
-        "position": 56,
+        "position": 55,
+        "name": "collapse (nexel)",
         "legacy": false
     },
     {
+        "name": "chromacave",
         "position": 57,
-        "name": "walter white",
         "legacy": false
     },
     {
         "position": 58,
-        "name": "infinite chaos",
+        "name": "walter white",
         "legacy": false
     },
     {
         "position": 59,
-        "name": "operation evolution",
+        "name": "infinite chaos",
         "legacy": false
     },
     {
         "position": 60,
-        "name": "damascus",
+        "name": "operation evolution",
         "legacy": false
     },
     {
         "position": 61,
-        "name": "collapse (nexel)",
+        "name": "damascus",
         "legacy": false
     },
     {
@@ -3910,303 +3910,303 @@
         "legacy": false
     },
     {
-        "position": 783,
-        "name": "cromulent",
+        "position": 782,
+        "name": "sl8o",
         "legacy": false
     },
     {
         "position": 784,
-        "name": "cluttered confusion",
+        "name": "cromulent",
         "legacy": false
     },
     {
         "position": 785,
-        "name": "tron",
+        "name": "cluttered confusion",
         "legacy": false
     },
     {
         "position": 786,
-        "name": "frozen",
+        "name": "tron",
         "legacy": false
     },
     {
         "position": 787,
-        "name": "callisto",
+        "name": "frozen",
         "legacy": false
     },
     {
         "position": 788,
-        "name": "float",
+        "name": "callisto",
         "legacy": false
     },
     {
         "position": 789,
-        "name": "electric forest",
+        "name": "float",
         "legacy": false
     },
     {
         "position": 790,
-        "name": "floating maze",
+        "name": "electric forest",
         "legacy": false
     },
     {
         "position": 791,
-        "name": "sodium",
+        "name": "floating maze",
         "legacy": false
     },
     {
         "position": 792,
-        "name": "burn to dust",
+        "name": "sodium",
         "legacy": false
     },
     {
         "position": 793,
-        "name": "n0",
+        "name": "burn to dust",
         "legacy": false
     },
     {
         "position": 794,
-        "name": "shattered lens",
+        "name": "n0",
         "legacy": false
     },
     {
         "position": 795,
-        "name": "go bird",
+        "name": "shattered lens",
         "legacy": false
     },
     {
         "position": 796,
-        "name": "to the blue moon",
+        "name": "go bird",
         "legacy": false
     },
     {
         "position": 797,
-        "name": "flamethrower",
+        "name": "to the blue moon",
         "legacy": false
     },
     {
         "position": 798,
-        "name": "i hate renn",
+        "name": "flamethrower",
         "legacy": false
     },
     {
         "position": 799,
-        "name": "arctic arena",
+        "name": "i hate renn",
         "legacy": false
     },
     {
         "position": 800,
-        "name": "disentombed",
+        "name": "arctic arena",
         "legacy": false
     },
     {
         "position": 801,
-        "name": "qdynamix",
+        "name": "disentombed",
         "legacy": false
     },
     {
         "position": 802,
-        "name": "scattered n lost",
+        "name": "qdynamix",
         "legacy": false
     },
     {
         "position": 803,
-        "name": "cytokinesis",
+        "name": "scattered n lost",
         "legacy": false
     },
     {
         "position": 804,
-        "name": "clowns",
+        "name": "cytokinesis",
         "legacy": false
     },
     {
         "position": 805,
-        "name": "voltaic",
+        "name": "clowns",
         "legacy": false
     },
     {
         "position": 806,
-        "name": "aftermath",
+        "name": "voltaic",
         "legacy": false
     },
     {
         "position": 807,
-        "name": "overtime",
+        "name": "aftermath",
         "legacy": false
     },
     {
         "position": 808,
-        "name": "karma",
+        "name": "overtime",
         "legacy": false
     },
     {
         "position": 809,
-        "name": "koantaoh",
+        "name": "karma",
         "legacy": false
     },
     {
         "position": 810,
-        "name": "karasu",
+        "name": "koantaoh",
         "legacy": false
     },
     {
         "position": 811,
-        "name": "sigma interface",
+        "name": "karasu",
         "legacy": false
     },
     {
         "position": 812,
-        "name": "extinction",
+        "name": "sigma interface",
         "legacy": false
     },
     {
         "position": 813,
-        "name": "tenebris",
+        "name": "extinction",
         "legacy": false
     },
     {
         "position": 814,
-        "name": "shape of the sun",
+        "name": "tenebris",
         "legacy": false
     },
     {
         "position": 815,
-        "name": "empyrean",
+        "name": "shape of the sun",
         "legacy": false
     },
     {
         "position": 816,
-        "name": "antonymph",
+        "name": "empyrean",
         "legacy": false
     },
     {
         "position": 817,
-        "name": "kingslayer",
+        "name": "antonymph",
         "legacy": false
     },
     {
         "position": 818,
-        "name": "minimum (sivlol)",
+        "name": "kingslayer",
         "legacy": false
     },
     {
         "position": 819,
-        "name": "mecha mayhem",
+        "name": "minimum (sivlol)",
         "legacy": false
     },
     {
         "position": 820,
+        "name": "mecha mayhem",
+        "legacy": false
+    },
+    {
+        "position": 821,
         "name": "wavebreaker",
         "legacy": false
     },
     {
-        "position": 821,
+        "position": 822,
         "name": "ninobytte",
         "legacy": false
     },
     {
-        "position": 821,
+        "position": 822,
         "name": "eternal",
         "legacy": false
     },
     {
-        "position": 822,
+        "position": 823,
         "name": "pure vale",
         "legacy": false
     },
     {
-        "position": 823,
+        "position": 824,
         "name": "treatment facility",
         "legacy": false
     },
     {
-        "position": 824,
+        "position": 825,
         "name": "follow me closely",
         "legacy": false
     },
     {
-        "position": 825,
+        "position": 826,
         "name": "into petals",
         "legacy": false
     },
     {
-        "position": 826,
+        "position": 827,
         "name": "ch1ll puddy",
         "legacy": false
     },
     {
-        "position": 827,
+        "position": 828,
         "name": "lovers sadness",
         "legacy": false
     },
     {
-        "position": 828,
+        "position": 829,
         "name": "super kontik",
         "legacy": false
     },
     {
-        "position": 829,
+        "position": 830,
         "name": "penultimate phase",
         "legacy": false
     },
     {
-        "position": 830,
+        "position": 831,
         "name": "annihilation nation",
         "legacy": false
     },
     {
-        "position": 831,
+        "position": 832,
         "name": "neighborhood",
         "legacy": false
     },
     {
-        "position": 832,
+        "position": 833,
         "name": "innards",
         "legacy": false
     },
     {
-        "position": 833,
+        "position": 834,
         "name": "minimum (insidee)",
         "legacy": false
     },
     {
-        "position": 834,
+        "position": 835,
         "name": "faulty code",
         "legacy": false
     },
     {
-        "position": 835,
+        "position": 836,
         "name": "ftw",
         "legacy": false
     },
     {
-        "position": 836,
+        "position": 837,
         "name": "beeline (2p)",
         "legacy": false
     },
     {
-        "position": 837,
+        "position": 838,
         "name": "all in",
         "legacy": false
     },
     {
-        "position": 838,
+        "position": 839,
         "name": "convulsing light",
         "legacy": false
     },
     {
-        "position": 839,
+        "position": 840,
         "name": "the red coronation",
         "legacy": false
     },
     {
-        "position": 840,
-        "name": "aura (duque01)",
-        "legacy": false
-    },
-    {
         "position": 841,
-        "name": "sl8o",
+        "name": "aura (duque01)",
         "legacy": false
     },
     {
