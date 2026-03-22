@@ -540,47 +540,47 @@
         "legacy": false
     },
     {
-        "position": 109,
+        "position": 108,
         "name": "henken",
         "legacy": false
     },
     {
-        "position": 110,
+        "position": 109,
         "name": "trueffet",
         "legacy": false
     },
     {
-        "position": 111,
+        "position": 110,
         "name": "azure blast",
         "legacy": false
     },
     {
-        "position": 112,
+        "position": 111,
         "name": "kenos",
         "legacy": false
     },
     {
-        "position": 113,
+        "position": 112,
         "name": "fragile",
         "legacy": false
     },
     {
-        "position": 114,
+        "position": 113,
         "name": "chrome hearts",
         "legacy": false
     },
     {
-        "position": 115,
+        "position": 114,
         "name": "starlight summit",
         "legacy": false
     },
     {
-        "position": 116,
+        "position": 115,
         "name": "wobbling machine (solo)",
         "legacy": false
     },
     {
-        "position": 117,
+        "position": 116,
         "name": "esfera",
         "legacy": false
     },
@@ -1255,48 +1255,48 @@
         "legacy": false
     },
     {
-        "position": 252,
-        "name": "dump",
+        "position": 251,
+        "name": "ego killing",
         "legacy": false
     },
     {
         "position": 253,
-        "name": "szyslak",
+        "name": "dump",
         "legacy": false
     },
     {
         "position": 254,
-        "name": "th3dev0n",
+        "name": "szyslak",
         "legacy": false
     },
     {
         "position": 255,
+        "name": "th3dev0n",
+        "legacy": false
+    },
+    {
+        "position": 256,
         "name": "the yandere",
         "legacy": false
     },
     {
         "name": "2 comme le vent",
-        "position": 256,
-        "legacy": false
-    },
-    {
         "position": 257,
-        "name": "death corridor z",
         "legacy": false
     },
     {
         "position": 258,
-        "name": "arctic lights",
+        "name": "death corridor z",
         "legacy": false
     },
     {
         "position": 259,
-        "name": "proton launcher",
+        "name": "arctic lights",
         "legacy": false
     },
     {
         "position": 260,
-        "name": "ego killing",
+        "name": "proton launcher",
         "legacy": false
     },
     {
