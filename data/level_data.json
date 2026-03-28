@@ -386,12 +386,12 @@
     },
     {
         "position": 78,
-        "name": "waterfall",
+        "name": "coalescence",
         "legacy": false
     },
     {
         "position": 79,
-        "name": "coalescence",
+        "name": "waterfall",
         "legacy": false
     },
     {
@@ -630,38 +630,38 @@
         "legacy": false
     },
     {
-        "position": 127,
+        "position": 126,
+        "name": "crackhead circles",
+        "legacy": false
+    },
+    {
+        "position": 128,
         "name": "axinie",
         "legacy": false
     },
     {
         "position": 128,
-        "name": "judgement knights",
+        "name": "lotus flower",
         "legacy": false
     },
     {
         "position": 129,
-        "name": "lithium",
-        "legacy": false
-    },
-    {
-        "position": 130,
-        "name": "widestep",
+        "name": "scream machine",
         "legacy": false
     },
     {
         "position": 131,
-        "name": "iris",
+        "name": "judgement knights",
         "legacy": false
     },
     {
         "position": 132,
-        "name": "crackhead circles",
+        "name": "widestep",
         "legacy": false
     },
     {
         "position": 133,
-        "name": "scream machine",
+        "name": "lithium",
         "legacy": false
     },
     {
@@ -671,12 +671,12 @@
     },
     {
         "position": 135,
-        "name": "galeforce",
+        "name": "iris",
         "legacy": false
     },
     {
         "position": 136,
-        "name": "lotus flower",
+        "name": "galeforce",
         "legacy": false
     },
     {
@@ -2980,147 +2980,152 @@
         "legacy": false
     },
     {
-        "position": 600,
-        "name": "the hell world",
+        "position": 598,
+        "name": "ithacropolis",
         "legacy": false
     },
     {
         "position": 601,
-        "name": "milo",
+        "name": "the hell world",
         "legacy": false
     },
     {
         "position": 602,
-        "name": "ancestral calamity",
+        "name": "milo",
         "legacy": false
     },
     {
         "position": 603,
-        "name": "erebus (platnuu)",
+        "name": "ancestral calamity",
         "legacy": false
     },
     {
         "position": 604,
-        "name": "ruber cash 22",
+        "name": "erebus (platnuu)",
         "legacy": false
     },
     {
         "position": 605,
-        "name": "dimensional breaking",
+        "name": "ruber cash 22",
         "legacy": false
     },
     {
         "position": 606,
-        "name": "dusker processing",
+        "name": "dimensional breaking",
         "legacy": false
     },
     {
         "position": 607,
+        "name": "dusker processing",
+        "legacy": false
+    },
+    {
+        "position": 608,
         "name": "sleeptalk",
         "legacy": false
     },
     {
         "name": "cryothorn hell",
-        "position": 608,
-        "legacy": false
-    },
-    {
         "position": 609,
-        "name": "speedrun",
         "legacy": false
     },
     {
         "position": 610,
-        "name": "supermayohateclub",
+        "name": "speedrun",
         "legacy": false
     },
     {
         "position": 611,
-        "name": "kuiper belt",
+        "name": "supermayohateclub",
         "legacy": false
     },
     {
         "position": 612,
-        "name": "athanatos",
+        "name": "kuiper belt",
         "legacy": false
     },
     {
         "position": 613,
-        "name": "shock breaker",
+        "name": "athanatos",
         "legacy": false
     },
     {
         "position": 614,
-        "name": "loose screws",
+        "name": "shock breaker",
         "legacy": false
     },
     {
         "position": 615,
-        "name": "microsoft drivethru",
+        "name": "loose screws",
         "legacy": false
     },
     {
         "position": 616,
-        "name": "gentlemens clique (solo)",
+        "name": "microsoft drivethru",
         "legacy": false
     },
     {
         "position": 617,
-        "name": "wild rose",
+        "name": "gentlemens clique (solo)",
         "legacy": false
     },
     {
         "position": 618,
-        "name": "miss you",
+        "name": "wild rose",
         "legacy": false
     },
     {
         "position": 619,
-        "name": "new record",
+        "name": "miss you",
         "legacy": false
     },
     {
         "position": 620,
-        "name": "project girlboss",
+        "name": "new record",
         "legacy": false
     },
     {
         "position": 621,
-        "name": "khorne",
+        "name": "project girlboss",
         "legacy": false
     },
     {
         "position": 622,
-        "name": "infernal abyss",
+        "name": "khorne",
         "legacy": false
     },
     {
         "position": 623,
-        "name": "fabricated thoughts",
+        "name": "infernal abyss",
         "legacy": false
     },
     {
         "position": 624,
-        "name": "reset your mind",
+        "name": "fabricated thoughts",
         "legacy": false
     },
     {
         "position": 625,
-        "name": "curie",
+        "name": "reset your mind",
         "legacy": false
     },
     {
         "position": 626,
-        "name": "carmine cascade",
+        "name": "curie",
         "legacy": false
     },
     {
         "position": 627,
-        "name": "screaming",
+        "name": "carmine cascade",
         "legacy": false
     },
     {
         "position": 628,
+        "name": "screaming",
+        "legacy": false
+    },
+    {
+        "position": 629,
         "name": "eleos",
         "legacy": false
     },
@@ -3137,11 +3142,6 @@
     {
         "position": 631,
         "name": "devoid",
-        "legacy": false
-    },
-    {
-        "position": 632,
-        "name": "ithacropolis",
         "legacy": false
     },
     {
@@ -4570,62 +4570,67 @@
         "legacy": false
     },
     {
-        "position": 918,
-        "name": "libertas",
+        "position": 917,
+        "name": "elliptic curve",
         "legacy": false
     },
     {
         "position": 919,
-        "name": "galaxy gas",
+        "name": "libertas",
         "legacy": false
     },
     {
         "position": 920,
-        "name": "audio extraction",
+        "name": "galaxy gas",
         "legacy": false
     },
     {
         "position": 921,
-        "name": "vast waters",
+        "name": "audio extraction",
         "legacy": false
     },
     {
         "position": 922,
-        "name": "brownoix",
+        "name": "vast waters",
         "legacy": false
     },
     {
         "position": 923,
-        "name": "betelgeuse",
+        "name": "brownoix",
         "legacy": false
     },
     {
         "position": 924,
-        "name": "huellas en la nieve",
+        "name": "betelgeuse",
         "legacy": false
     },
     {
         "position": 925,
-        "name": "redemption arc",
+        "name": "huellas en la nieve",
         "legacy": false
     },
     {
         "position": 926,
-        "name": "torsion",
+        "name": "redemption arc",
         "legacy": false
     },
     {
         "position": 927,
-        "name": "lit path",
+        "name": "torsion",
         "legacy": false
     },
     {
         "position": 928,
-        "name": "devins thorn zone",
+        "name": "lit path",
         "legacy": false
     },
     {
         "position": 929,
+        "name": "devins thorn zone",
+        "legacy": false
+    },
+    {
+        "position": 930,
         "name": "vermilion",
         "legacy": false
     },
@@ -4642,11 +4647,6 @@
     {
         "position": 932,
         "name": "geode",
-        "legacy": false
-    },
-    {
-        "position": 933,
-        "name": "elliptic curve",
         "legacy": false
     },
     {
