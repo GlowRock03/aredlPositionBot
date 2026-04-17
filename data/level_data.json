@@ -1191,12 +1191,12 @@
     },
     {
         "position": 239,
-        "name": "fog",
+        "name": "atomic cannon",
         "legacy": false
     },
     {
         "position": 240,
-        "name": "atomic cannon",
+        "name": "fog",
         "legacy": false
     },
     {
@@ -2986,397 +2986,397 @@
     },
     {
         "position": 598,
-        "name": "vivacious",
-        "legacy": false
-    },
-    {
-        "position": 599,
         "name": "burnout",
         "legacy": false
     },
     {
-        "position": 600,
+        "position": 599,
         "name": "singularity",
         "legacy": false
     },
     {
-        "position": 601,
+        "position": 600,
         "name": "multi arm",
         "legacy": false
     },
     {
-        "position": 602,
+        "position": 601,
         "name": "adrenaline (wapon77)",
         "legacy": false
     },
     {
-        "position": 603,
+        "position": 602,
         "name": "cheyenne",
         "legacy": false
     },
     {
-        "position": 604,
+        "position": 603,
         "name": "autumnal remanence",
         "legacy": false
     },
     {
-        "position": 605,
+        "position": 604,
         "name": "the hell world",
         "legacy": false
     },
     {
-        "position": 606,
+        "position": 605,
         "name": "ithacropolis",
         "legacy": false
     },
     {
-        "position": 607,
+        "position": 606,
         "name": "milo",
         "legacy": false
     },
     {
-        "position": 608,
+        "position": 607,
         "name": "ancestral calamity",
         "legacy": false
     },
     {
-        "position": 609,
+        "position": 608,
         "name": "erebus (platnuu)",
         "legacy": false
     },
     {
-        "position": 610,
+        "position": 609,
         "name": "ruber cash 22",
         "legacy": false
     },
     {
-        "position": 611,
+        "position": 610,
         "name": "dimensional breaking",
         "legacy": false
     },
     {
-        "position": 612,
+        "position": 611,
         "name": "dusker processing",
         "legacy": false
     },
     {
-        "position": 613,
+        "position": 612,
         "name": "sleeptalk",
         "legacy": false
     },
     {
-        "position": 614,
+        "position": 613,
         "name": "speedrun",
         "legacy": false
     },
     {
-        "position": 615,
+        "position": 614,
         "name": "supermayohateclub",
         "legacy": false
     },
     {
-        "position": 616,
+        "position": 615,
         "name": "kuiper belt",
         "legacy": false
     },
     {
-        "position": 617,
+        "position": 616,
         "name": "athanatos",
         "legacy": false
     },
     {
-        "position": 618,
+        "position": 617,
         "name": "cryothorn hell",
         "legacy": false
     },
     {
-        "position": 619,
+        "position": 618,
         "name": "shock breaker",
         "legacy": false
     },
     {
-        "position": 620,
+        "position": 619,
         "name": "loose screws",
         "legacy": false
     },
     {
-        "position": 621,
+        "position": 620,
         "name": "microsoft drivethru",
         "legacy": false
     },
     {
-        "position": 622,
+        "position": 621,
         "name": "gentlemens clique (solo)",
         "legacy": false
     },
     {
-        "position": 623,
+        "position": 622,
         "name": "wild rose",
         "legacy": false
     },
     {
-        "position": 624,
+        "position": 623,
         "name": "miss you",
         "legacy": false
     },
     {
-        "position": 625,
+        "position": 624,
         "name": "new record",
         "legacy": false
     },
     {
-        "position": 626,
+        "position": 625,
         "name": "project girlboss",
         "legacy": false
     },
     {
-        "position": 627,
+        "position": 626,
         "name": "khorne",
         "legacy": false
     },
     {
-        "position": 628,
+        "position": 627,
         "name": "infernal abyss",
         "legacy": false
     },
     {
-        "position": 629,
+        "position": 628,
         "name": "fabricated thoughts",
         "legacy": false
     },
     {
-        "position": 630,
+        "position": 629,
         "name": "reset your mind",
         "legacy": false
     },
     {
-        "position": 631,
+        "position": 630,
         "name": "curie",
         "legacy": false
     },
     {
-        "position": 632,
+        "position": 631,
         "name": "carmine cascade",
         "legacy": false
     },
     {
-        "position": 633,
+        "position": 632,
         "name": "screaming",
         "legacy": false
     },
     {
-        "position": 634,
+        "position": 633,
         "name": "eleos",
         "legacy": false
     },
     {
-        "position": 635,
+        "position": 634,
         "name": "rash",
         "legacy": false
     },
     {
-        "position": 636,
+        "position": 635,
         "name": "xuser morelike luser",
         "legacy": false
     },
     {
-        "position": 637,
+        "position": 636,
         "name": "devoid",
         "legacy": false
     },
     {
-        "position": 638,
+        "position": 637,
         "name": "twilight coexistence",
         "legacy": false
     },
     {
-        "position": 639,
+        "position": 638,
         "name": "removed submission",
         "legacy": false
     },
     {
-        "position": 640,
+        "position": 639,
         "name": "mystic",
         "legacy": false
     },
     {
-        "position": 641,
+        "position": 640,
         "name": "tunnel",
         "legacy": false
     },
     {
-        "position": 642,
+        "position": 641,
         "name": "team z",
         "legacy": false
     },
     {
-        "position": 643,
+        "position": 642,
         "name": "masterpiece",
         "legacy": false
     },
     {
-        "position": 644,
+        "position": 643,
         "name": "the old trail",
         "legacy": false
     },
     {
-        "position": 645,
+        "position": 644,
         "name": "sapphire angel",
         "legacy": false
     },
     {
-        "position": 646,
+        "position": 645,
         "name": "wobbling machine (2p)",
         "legacy": false
     },
     {
-        "position": 647,
+        "position": 646,
         "name": "hot rod",
         "legacy": false
     },
     {
-        "position": 648,
+        "position": 647,
         "name": "based gang (solo)",
         "legacy": false
     },
     {
-        "position": 649,
+        "position": 648,
         "name": "madmansion",
         "legacy": false
     },
     {
-        "position": 650,
+        "position": 649,
         "name": "disastrous danceoff",
         "legacy": false
     },
     {
-        "position": 651,
+        "position": 650,
         "name": "aether (zerosr)",
         "legacy": false
     },
     {
-        "position": 652,
+        "position": 651,
         "name": "turbulent valley",
         "legacy": false
     },
     {
-        "position": 653,
+        "position": 652,
         "name": "wcropolix",
         "legacy": false
     },
     {
-        "position": 654,
+        "position": 653,
         "name": "s3nt1m3nt",
         "legacy": false
     },
     {
-        "position": 655,
+        "position": 654,
         "name": "the hell origin",
         "legacy": false
     },
     {
-        "position": 656,
+        "position": 655,
         "name": "bang gang (solo)",
         "legacy": false
     },
     {
-        "position": 657,
+        "position": 656,
         "name": "oneattempt",
         "legacy": false
     },
     {
-        "position": 658,
+        "position": 657,
         "name": "rawstar",
         "legacy": false
     },
     {
-        "position": 659,
+        "position": 658,
         "name": "darkened",
         "legacy": false
     },
     {
-        "position": 660,
+        "position": 659,
         "name": "advanced airstream",
         "legacy": false
     },
     {
-        "position": 661,
+        "position": 660,
         "name": "coolie mazie paloozi",
         "legacy": false
     },
     {
-        "position": 662,
+        "position": 661,
         "name": "envy",
         "legacy": false
     },
     {
-        "position": 663,
+        "position": 662,
         "name": "fusiondynamix",
         "legacy": false
     },
     {
-        "position": 664,
+        "position": 663,
         "name": "carnage mode",
         "legacy": false
     },
     {
-        "position": 665,
+        "position": 664,
         "name": "poltergeist reborn",
         "legacy": false
     },
     {
-        "position": 666,
+        "position": 665,
         "name": "falcon16",
         "legacy": false
     },
     {
-        "position": 667,
+        "position": 666,
         "name": "vendetta",
         "legacy": false
     },
     {
-        "position": 668,
+        "position": 667,
         "name": "blade of justice",
         "legacy": false
     },
     {
-        "position": 669,
+        "position": 668,
         "name": "nautilus",
         "legacy": false
     },
     {
-        "position": 670,
+        "position": 669,
         "name": "paranoid android",
         "legacy": false
     },
     {
-        "position": 671,
+        "position": 670,
         "name": "vertigo (notlevo)",
         "legacy": false
     },
     {
-        "position": 672,
+        "position": 671,
         "name": "autonomica",
         "legacy": false
     },
     {
-        "position": 673,
+        "position": 672,
         "name": "dimension breaker",
         "legacy": false
     },
     {
-        "position": 674,
+        "position": 673,
         "name": "freedom19",
         "legacy": false
     },
     {
-        "position": 675,
+        "position": 674,
         "name": "phobos",
         "legacy": false
     },
     {
-        "position": 676,
+        "position": 675,
         "name": "masochism",
+        "legacy": false
+    },
+    {
+        "position": 677,
+        "name": "vivacious",
         "legacy": false
     },
     {
