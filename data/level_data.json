@@ -1706,62 +1706,62 @@
     },
     {
         "position": 342,
-        "name": "icotact",
-        "legacy": false
-    },
-    {
-        "position": 343,
         "name": "lumina",
         "legacy": false
     },
     {
-        "position": 344,
+        "position": 343,
         "name": "in the generator",
         "legacy": false
     },
     {
-        "position": 345,
+        "position": 344,
         "name": "dual pulse",
         "legacy": false
     },
     {
-        "position": 346,
+        "position": 345,
         "name": "sephiroth",
         "legacy": false
     },
     {
-        "position": 347,
+        "position": 346,
         "name": "brkmgb8gjcz",
         "legacy": false
     },
     {
-        "position": 348,
+        "position": 347,
         "name": "yatagarasu",
         "legacy": false
     },
     {
-        "position": 349,
+        "position": 348,
         "name": "the fog",
         "legacy": false
     },
     {
-        "position": 350,
+        "position": 349,
         "name": "cosmic ray",
         "legacy": false
     },
     {
-        "position": 351,
+        "position": 350,
         "name": "cobalt hell",
         "legacy": false
     },
     {
-        "position": 352,
+        "position": 351,
         "name": "infinite iniquity",
         "legacy": false
     },
     {
-        "position": 353,
+        "position": 352,
         "name": "devotion",
+        "legacy": false
+    },
+    {
+        "position": 354,
+        "name": "icotact",
         "legacy": false
     },
     {
@@ -2515,188 +2515,188 @@
         "legacy": false
     },
     {
-        "position": 504,
-        "name": "mind control",
+        "position": 503,
+        "name": "bass cave",
         "legacy": false
     },
     {
         "position": 505,
-        "name": "quantum processing",
+        "name": "mind control",
         "legacy": false
     },
     {
         "position": 506,
-        "name": "dualies",
+        "name": "quantum processing",
         "legacy": false
     },
     {
         "position": 507,
-        "name": "insane techniques",
+        "name": "dualies",
         "legacy": false
     },
     {
         "position": 508,
-        "name": "chainsaw",
+        "name": "insane techniques",
         "legacy": false
     },
     {
         "position": 509,
-        "name": "biohazard (mattsstuff)",
+        "name": "chainsaw",
         "legacy": false
     },
     {
         "position": 510,
-        "name": "black blizzard",
+        "name": "biohazard (mattsstuff)",
         "legacy": false
     },
     {
         "position": 511,
-        "name": "distraught",
+        "name": "black blizzard",
         "legacy": false
     },
     {
         "position": 512,
-        "name": "neurostasis",
+        "name": "distraught",
         "legacy": false
     },
     {
         "position": 513,
-        "name": "ethereal artifice",
+        "name": "neurostasis",
         "legacy": false
     },
     {
         "position": 514,
-        "name": "sector 19",
+        "name": "ethereal artifice",
         "legacy": false
     },
     {
         "position": 515,
-        "name": "glowy",
+        "name": "sector 19",
         "legacy": false
     },
     {
         "position": 516,
-        "name": "quaoar (flosia)",
+        "name": "glowy",
         "legacy": false
     },
     {
         "position": 517,
-        "name": "soleil",
+        "name": "quaoar (flosia)",
         "legacy": false
     },
     {
         "position": 518,
-        "name": "free for all 2",
+        "name": "soleil",
         "legacy": false
     },
     {
         "position": 519,
-        "name": "flyway",
+        "name": "free for all 2",
         "legacy": false
     },
     {
         "position": 520,
-        "name": "desolate",
+        "name": "flyway",
         "legacy": false
     },
     {
         "position": 521,
-        "name": "redeemer",
+        "name": "desolate",
         "legacy": false
     },
     {
         "position": 522,
-        "name": "linugi",
+        "name": "redeemer",
         "legacy": false
     },
     {
         "position": 523,
-        "name": "astral divinity",
+        "name": "linugi",
         "legacy": false
     },
     {
         "position": 524,
-        "name": "snowfall fiesta",
+        "name": "astral divinity",
         "legacy": false
     },
     {
         "position": 525,
-        "name": "static ignition",
+        "name": "snowfall fiesta",
         "legacy": false
     },
     {
         "position": 526,
-        "name": "disaster dive",
+        "name": "static ignition",
         "legacy": false
     },
     {
         "position": 527,
-        "name": "misfire",
+        "name": "disaster dive",
         "legacy": false
     },
     {
         "position": 528,
-        "name": "rosedynamix",
+        "name": "misfire",
         "legacy": false
     },
     {
         "position": 529,
-        "name": "la cueva",
+        "name": "rosedynamix",
         "legacy": false
     },
     {
         "position": 530,
-        "name": "rate demon",
+        "name": "la cueva",
         "legacy": false
     },
     {
         "position": 531,
-        "name": "void wave",
+        "name": "rate demon",
         "legacy": false
     },
     {
         "position": 532,
-        "name": "faded dream",
+        "name": "void wave",
         "legacy": false
     },
     {
         "position": 533,
-        "name": "bausha vortex",
+        "name": "faded dream",
         "legacy": false
     },
     {
         "position": 534,
-        "name": "butiti iii",
+        "name": "bausha vortex",
         "legacy": false
     },
     {
         "position": 535,
-        "name": "spectrum rave",
+        "name": "butiti iii",
         "legacy": false
     },
     {
         "position": 536,
-        "name": "never beat it",
+        "name": "spectrum rave",
         "legacy": false
     },
     {
         "position": 537,
-        "name": "balengu vortex",
+        "name": "never beat it",
         "legacy": false
     },
     {
         "position": 538,
-        "name": "bbbbbbbbbbbbbbbbbbbb",
+        "name": "balengu vortex",
         "legacy": false
     },
     {
         "position": 539,
-        "name": "encrypted",
+        "name": "bbbbbbbbbbbbbbbbbbbb",
         "legacy": false
     },
     {
         "position": 540,
-        "name": "bass cave",
+        "name": "encrypted",
         "legacy": false
     },
     {
