@@ -2581,47 +2581,47 @@
     },
     {
         "position": 517,
-        "name": "glowy",
-        "legacy": false
-    },
-    {
-        "position": 518,
         "name": "quaoar (flosia)",
         "legacy": false
     },
     {
-        "position": 519,
+        "position": 518,
         "name": "soleil",
         "legacy": false
     },
     {
-        "position": 520,
+        "position": 519,
         "name": "free for all 2",
         "legacy": false
     },
     {
-        "position": 521,
+        "position": 520,
         "name": "flyway",
         "legacy": false
     },
     {
-        "position": 522,
+        "position": 521,
         "name": "desolate",
         "legacy": false
     },
     {
-        "position": 523,
+        "position": 522,
         "name": "redeemer",
         "legacy": false
     },
     {
-        "position": 524,
+        "position": 523,
         "name": "linugi",
         "legacy": false
     },
     {
-        "position": 525,
+        "position": 524,
         "name": "astral divinity",
+        "legacy": false
+    },
+    {
+        "position": 526,
+        "name": "glowy",
         "legacy": false
     },
     {
@@ -4220,318 +4220,318 @@
         "legacy": false
     },
     {
-        "position": 845,
+        "position": 846,
         "name": "disentombed",
         "legacy": false
     },
     {
         "position": 846,
-        "name": "qdynamix",
+        "name": "pitfall caverns",
         "legacy": false
     },
     {
         "position": 847,
-        "name": "scattered n lost",
+        "name": "qdynamix",
         "legacy": false
     },
     {
         "position": 848,
-        "name": "cytokinesis",
+        "name": "scattered n lost",
         "legacy": false
     },
     {
         "position": 849,
-        "name": "clowns",
+        "name": "cytokinesis",
         "legacy": false
     },
     {
         "position": 850,
-        "name": "voltaic",
+        "name": "clowns",
         "legacy": false
     },
     {
         "position": 851,
-        "name": "techno disco",
+        "name": "voltaic",
         "legacy": false
     },
     {
         "position": 852,
-        "name": "trippin balls",
+        "name": "techno disco",
         "legacy": false
     },
     {
         "position": 853,
-        "name": "fever dream (elirpscalionpc)",
+        "name": "trippin balls",
         "legacy": false
     },
     {
         "position": 854,
-        "name": "same old",
+        "name": "fever dream (elirpscalionpc)",
         "legacy": false
     },
     {
         "position": 855,
-        "name": "overtime",
+        "name": "same old",
         "legacy": false
     },
     {
         "position": 856,
-        "name": "karma",
+        "name": "overtime",
         "legacy": false
     },
     {
         "position": 857,
-        "name": "koantaoh",
+        "name": "karma",
         "legacy": false
     },
     {
         "position": 858,
-        "name": "karasu",
+        "name": "koantaoh",
         "legacy": false
     },
     {
         "position": 859,
-        "name": "extinction",
+        "name": "karasu",
         "legacy": false
     },
     {
         "position": 860,
-        "name": "tenebris",
+        "name": "extinction",
         "legacy": false
     },
     {
         "position": 861,
-        "name": "antonymph",
+        "name": "tenebris",
         "legacy": false
     },
     {
         "position": 862,
-        "name": "mecha mayhem",
+        "name": "antonymph",
         "legacy": false
     },
     {
         "position": 863,
-        "name": "wavebreaker",
+        "name": "mecha mayhem",
         "legacy": false
     },
     {
         "position": 864,
-        "name": "ninobytte",
+        "name": "wavebreaker",
         "legacy": false
     },
     {
         "position": 865,
-        "name": "eternal",
+        "name": "ninobytte",
         "legacy": false
     },
     {
         "position": 866,
-        "name": "pure vale",
+        "name": "eternal",
         "legacy": false
     },
     {
         "position": 867,
-        "name": "treatment facility",
+        "name": "pure vale",
         "legacy": false
     },
     {
         "position": 868,
-        "name": "follow me closely",
+        "name": "treatment facility",
         "legacy": false
     },
     {
         "position": 869,
-        "name": "into petals",
+        "name": "follow me closely",
         "legacy": false
     },
     {
         "position": 870,
-        "name": "ch1ll puddy",
+        "name": "into petals",
         "legacy": false
     },
     {
         "position": 871,
-        "name": "lovers sadness",
+        "name": "ch1ll puddy",
         "legacy": false
     },
     {
         "position": 872,
-        "name": "super kontik",
+        "name": "lovers sadness",
         "legacy": false
     },
     {
         "position": 873,
-        "name": "empyrean",
+        "name": "super kontik",
         "legacy": false
     },
     {
         "position": 874,
-        "name": "penultimate phase",
+        "name": "empyrean",
         "legacy": false
     },
     {
         "position": 875,
-        "name": "neighborhood",
+        "name": "penultimate phase",
         "legacy": false
     },
     {
         "position": 876,
-        "name": "grizzlyware",
+        "name": "neighborhood",
         "legacy": false
     },
     {
         "position": 877,
-        "name": "innards",
+        "name": "grizzlyware",
         "legacy": false
     },
     {
         "position": 878,
-        "name": "minimum (insidee)",
+        "name": "innards",
         "legacy": false
     },
     {
         "position": 879,
-        "name": "faulty code",
+        "name": "minimum (insidee)",
         "legacy": false
     },
     {
         "position": 880,
-        "name": "ftw",
+        "name": "faulty code",
         "legacy": false
     },
     {
         "position": 881,
-        "name": "beeline (2p)",
+        "name": "ftw",
         "legacy": false
     },
     {
         "position": 882,
-        "name": "zenith (lan iivx)",
+        "name": "beeline (2p)",
         "legacy": false
     },
     {
         "position": 883,
-        "name": "all in",
+        "name": "zenith (lan iivx)",
         "legacy": false
     },
     {
         "position": 884,
-        "name": "convulsing light",
+        "name": "all in",
         "legacy": false
     },
     {
         "position": 885,
-        "name": "the red coronation",
+        "name": "convulsing light",
         "legacy": false
     },
     {
         "position": 886,
-        "name": "aura (duque01)",
+        "name": "the red coronation",
         "legacy": false
     },
     {
         "position": 887,
-        "name": "novasphere",
+        "name": "aura (duque01)",
         "legacy": false
     },
     {
         "position": 888,
-        "name": "empress blades",
+        "name": "novasphere",
         "legacy": false
     },
     {
         "position": 889,
-        "name": "shinigami",
+        "name": "empress blades",
         "legacy": false
     },
     {
         "position": 890,
-        "name": "gridlocked",
+        "name": "shinigami",
         "legacy": false
     },
     {
         "position": 891,
-        "name": "the first",
+        "name": "gridlocked",
         "legacy": false
     },
     {
         "position": 892,
-        "name": "welcome to your mind",
+        "name": "the first",
         "legacy": false
     },
     {
         "position": 893,
-        "name": "snowfall storm",
+        "name": "welcome to your mind",
         "legacy": false
     },
     {
         "position": 894,
-        "name": "ancient travel",
+        "name": "snowfall storm",
         "legacy": false
     },
     {
         "position": 895,
-        "name": "lunar",
+        "name": "ancient travel",
         "legacy": false
     },
     {
         "position": 896,
-        "name": "im leaving",
+        "name": "lunar",
         "legacy": false
     },
     {
         "position": 897,
-        "name": "piston",
+        "name": "im leaving",
         "legacy": false
     },
     {
         "position": 898,
-        "name": "ethereal entity",
+        "name": "piston",
         "legacy": false
     },
     {
         "position": 899,
-        "name": "novalis",
+        "name": "ethereal entity",
         "legacy": false
     },
     {
         "position": 900,
-        "name": "digital disarray",
+        "name": "novalis",
         "legacy": false
     },
     {
         "position": 901,
-        "name": "the hell dignity",
+        "name": "digital disarray",
         "legacy": false
     },
     {
         "position": 902,
-        "name": "complementary cruise",
+        "name": "the hell dignity",
         "legacy": false
     },
     {
         "position": 903,
-        "name": "solstice",
+        "name": "complementary cruise",
         "legacy": false
     },
     {
         "position": 904,
-        "name": "glimmer",
+        "name": "solstice",
         "legacy": false
     },
     {
         "position": 905,
-        "name": "emptiness",
+        "name": "glimmer",
         "legacy": false
     },
     {
         "position": 906,
-        "name": "metal requiem",
+        "name": "emptiness",
         "legacy": false
     },
     {
         "position": 907,
-        "name": "pitfall caverns",
+        "name": "metal requiem",
         "legacy": false
     },
     {
