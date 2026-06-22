@@ -65,8 +65,8 @@
         "legacy": false
     },
     {
-        "name": "killstealer",
         "position": 14,
+        "name": "killstealer",
         "legacy": false
     },
     {
@@ -145,18 +145,18 @@
         "legacy": false
     },
     {
-        "name": "maniacal chains",
         "position": 30,
-        "legacy": false
-    },
-    {
-        "position": 31,
-        "name": "chil",
+        "name": "maniacal chains",
         "legacy": false
     },
     {
         "position": 31,
         "name": "deimos (itshybrid)",
+        "legacy": false
+    },
+    {
+        "position": 32,
+        "name": "chil",
         "legacy": false
     },
     {
@@ -170,8 +170,8 @@
         "legacy": false
     },
     {
-        "name": "master of puppets",
         "position": 35,
+        "name": "master of puppets",
         "legacy": false
     },
     {
@@ -220,13 +220,13 @@
         "legacy": false
     },
     {
-        "position": 46,
-        "name": "poocubed",
+        "position": 45,
+        "name": "convulsion",
         "legacy": false
     },
     {
         "position": 46,
-        "name": "convulsion",
+        "name": "poocubed",
         "legacy": false
     },
     {
@@ -271,12 +271,12 @@
     },
     {
         "position": 55,
-        "name": "deadlier clubstep",
+        "name": "loops of fury",
         "legacy": false
     },
     {
-        "position": 55,
-        "name": "loops of fury",
+        "position": 56,
+        "name": "deadlier clubstep",
         "legacy": false
     },
     {
@@ -1065,13 +1065,13 @@
         "legacy": false
     },
     {
-        "position": 215,
-        "name": "amalgam",
+        "position": 214,
+        "name": "deep bass",
         "legacy": false
     },
     {
         "position": 215,
-        "name": "deep bass",
+        "name": "amalgam",
         "legacy": false
     },
     {
@@ -1126,12 +1126,12 @@
     },
     {
         "position": 226,
-        "name": "nabil let go",
+        "name": "dsink",
         "legacy": false
     },
     {
-        "position": 226,
-        "name": "dsink",
+        "position": 227,
+        "name": "nabil let go",
         "legacy": false
     },
     {
@@ -5251,12 +5251,12 @@
     },
     {
         "position": 1051,
-        "name": "welcome to gd news",
+        "name": "spacious senses",
         "legacy": false
     },
     {
-        "position": 1051,
-        "name": "spacious senses",
+        "position": 1052,
+        "name": "welcome to gd news",
         "legacy": false
     },
     {
@@ -6256,12 +6256,12 @@
     },
     {
         "position": 1252,
-        "name": "ung",
+        "name": "ultrasans",
         "legacy": false
     },
     {
-        "position": 1252,
-        "name": "ultrasans",
+        "position": 1253,
+        "name": "ung",
         "legacy": false
     },
     {
@@ -7135,8 +7135,8 @@
         "legacy": false
     },
     {
-        "name": "brutal",
         "position": 1428,
+        "name": "brutal",
         "legacy": false
     },
     {
