@@ -731,21 +731,16 @@
     },
     {
         "position": 147,
-        "name": "goober rage stage",
-        "legacy": false
-    },
-    {
-        "position": 148,
         "name": "crackhead circles",
         "legacy": false
     },
     {
-        "position": 149,
+        "position": 148,
         "name": "zodiac",
         "legacy": false
     },
     {
-        "position": 150,
+        "position": 149,
         "name": "lotus flower",
         "legacy": false
     },
@@ -755,18 +750,23 @@
         "legacy": false
     },
     {
-        "position": 152,
+        "position": 151,
         "name": "axinie",
         "legacy": false
     },
     {
-        "position": 153,
+        "position": 152,
         "name": "glungus adventures",
         "legacy": false
     },
     {
-        "position": 154,
+        "position": 153,
         "name": "iris",
+        "legacy": false
+    },
+    {
+        "position": 155,
+        "name": "goober rage stage",
         "legacy": false
     },
     {
