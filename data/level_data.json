@@ -1090,43 +1090,43 @@
         "legacy": false
     },
     {
-        "position": 219,
+        "position": 218,
+        "name": "omega interface",
+        "legacy": false
+    },
+    {
+        "position": 220,
         "name": "launchpad labyrinth",
         "legacy": false
     },
     {
         "name": "double dynamo (solo)",
-        "position": 220,
+        "position": 221,
         "legacy": false
     },
     {
-        "position": 221,
+        "position": 222,
         "name": "obsession",
         "legacy": false
     },
     {
-        "position": 224,
+        "position": 225,
         "name": "akashic records",
         "legacy": false
     },
     {
-        "position": 224,
+        "position": 225,
         "name": "superhatemeworld",
         "legacy": false
     },
     {
-        "position": 224,
+        "position": 225,
         "name": "tenkai (solo)",
         "legacy": false
     },
     {
-        "position": 225,
-        "name": "shardscapes",
-        "legacy": false
-    },
-    {
         "position": 226,
-        "name": "omega interface",
+        "name": "shardscapes",
         "legacy": false
     },
     {
