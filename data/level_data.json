@@ -245,28 +245,28 @@
         "legacy": false
     },
     {
-        "position": 50,
+        "position": 49,
         "name": "through the gates",
         "legacy": false
     },
     {
-        "position": 51,
+        "position": 50,
         "name": "firework",
         "legacy": false
     },
     {
-        "position": 52,
-        "name": "nomad",
+        "position": 50,
+        "name": "convulsion",
         "legacy": false
     },
     {
         "position": 53,
-        "name": "snowbound",
+        "name": "nomad",
         "legacy": false
     },
     {
         "position": 54,
-        "name": "convulsion",
+        "name": "snowbound",
         "legacy": false
     },
     {
@@ -306,32 +306,32 @@
     },
     {
         "position": 62,
-        "name": "sevvend clubstep",
-        "legacy": false
-    },
-    {
-        "position": 63,
         "name": "the hallucination",
         "legacy": false
     },
     {
         "name": "pinnacle of life",
-        "position": 64,
+        "position": 63,
         "legacy": false
     },
     {
-        "position": 65,
+        "position": 64,
         "name": "combustion",
         "legacy": false
     },
     {
         "name": "haunted ship",
-        "position": 66,
+        "position": 65,
         "legacy": false
     },
     {
-        "position": 67,
+        "position": 66,
         "name": "loops of fury",
+        "legacy": false
+    },
+    {
+        "position": 68,
+        "name": "sevvend clubstep",
         "legacy": false
     },
     {
@@ -615,33 +615,33 @@
         "legacy": false
     },
     {
-        "position": 124,
-        "name": "verdant landscape",
+        "position": 123,
+        "name": "atomic cannon mk iii",
         "legacy": false
     },
     {
         "position": 125,
+        "name": "verdant landscape",
+        "legacy": false
+    },
+    {
+        "position": 126,
         "name": "levigo",
         "legacy": false
     },
     {
         "name": "heavenly sakupen",
-        "position": 126,
+        "position": 127,
         "legacy": false
     },
     {
-        "position": 127,
+        "position": 128,
         "name": "unknown",
         "legacy": false
     },
     {
         "name": "spirit overclock",
         "position": 129,
-        "legacy": false
-    },
-    {
-        "position": 130,
-        "name": "atomic cannon mk iii",
         "legacy": false
     },
     {
