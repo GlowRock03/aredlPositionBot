@@ -4345,43 +4345,43 @@
         "legacy": false
     },
     {
-        "name": "angel",
-        "position": 869,
-        "legacy": false
-    },
-    {
         "position": 870,
         "name": "protoflicker",
         "legacy": false
     },
     {
         "name": "putrefaction",
-        "position": 871,
+        "position": 870,
         "legacy": false
     },
     {
-        "position": 872,
+        "position": 871,
         "name": "cave of heart",
         "legacy": false
     },
     {
-        "position": 873,
+        "position": 872,
         "name": "grind district",
         "legacy": false
     },
     {
         "name": "blueprint",
-        "position": 874,
+        "position": 873,
         "legacy": false
     },
     {
-        "position": 876,
+        "position": 875,
         "name": "ecstasy (filqh)",
         "legacy": false
     },
     {
-        "position": 876,
+        "position": 875,
         "name": "ouch",
+        "legacy": false
+    },
+    {
+        "name": "angel",
+        "position": 877,
         "legacy": false
     },
     {
