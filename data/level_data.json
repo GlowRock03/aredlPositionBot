@@ -640,33 +640,33 @@
         "legacy": false
     },
     {
-        "position": 129,
+        "position": 128,
+        "name": "checked steam",
+        "legacy": false
+    },
+    {
+        "position": 130,
         "name": "unknown",
         "legacy": false
     },
     {
         "name": "spirit overclock",
-        "position": 130,
+        "position": 131,
         "legacy": false
     },
     {
-        "position": 131,
+        "position": 132,
         "name": "shukketsu",
         "legacy": false
     },
     {
         "name": "breakcore",
-        "position": 132,
-        "legacy": false
-    },
-    {
-        "name": "idontknowwhatthisis",
         "position": 133,
         "legacy": false
     },
     {
+        "name": "idontknowwhatthisis",
         "position": 134,
-        "name": "checked steam",
         "legacy": false
     },
     {
